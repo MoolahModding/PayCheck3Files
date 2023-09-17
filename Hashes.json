@@ -1,10 +1,11 @@
 {
-  "BasicInfamyTable.json": "cbef63b3b4713e792fb9fb0a9e2e126cda137c815f80441cdffa0cc07405124a",
-  "ChallengeRecords.json": "146e92f3a21d24164a0ad4f9a96626cd91d0bd26e455050a4362c3255415274d",
-  "Entitlements.json": "53e6a1e2838ec05ed75875635f7cd9bce878763949c81afec7c85d972cc62fd5",
-  "FirmRotation.json": "ba74073d90b89dca8dfc6d82d9e48fa4104ff5e6f1b1fe2cbadad5c75bdf3b4d",
-  "Items.json": "d75619430c02699ade0dd7b3bc53b0aec7724fe87ffe7e2c5c125499decd1c0c",
-  "MetaEvents.json": "1f66f9fa6f458378d70ec36e811309f1d675b7b3b9dfba1c391c461c41bf27ef",
-  "NewsFeed.json": "e1c8ecfc00f539e818603f309bc9a2dad5c16407c7cb726486199380fc6123c3",
-  "UpdatedAtTimes.json": "072ef6e3f066c77decaee0a5253850a8466e7387cdea8abdcfdb314a66e51176"
+  "BasicInfamyTable.json": "4f3f5b118a4f8c2f87cffc0ad6eaf4812d1e93e8e9231fa5dbd04470138d106d",
+  "ChallengeRecords.json": "626ee5f94d5589e3e676be75e1ddd413f3d144d2ce570433cf611b347c7a1e41",
+  "Entitlements.json": "20bebcec38d828f0bcd3d0494d8650bda21c7e46f78723cbb2e25e24e533bd2b",
+  "FirmRotation.json": "b16fc075fb91f4fbd88b74795f1faa4003cceff99955b3a9e85ab23429ce3a8c",
+  "Items.json": "36b6e883843bd4eac2d3e8a5dc19ad688ecd174e6ea39fd7821d188e4edffede",
+  "MetaEvents.json": "0343bd64f1c446247ea4f8e39286cbca991a085de9d9d20f4904125fa864b23a",
+  "NewsFeed.json": "c3cb625528281b9d64bdb51b398d8551eb4173aebe4f5c6dd9ff121b0c991cb0",
+  "UpdatedAtTimes.json": "12d72c5d55c32c5300670074a1d75fabc101e1949b5ee1e5a149937226e27bc7",
+  "WeaponTables.json": "f15e675d1ccf943e572c4c7c4f7fd365025711e0a0fa45f5ccf17087be7ee84d"
 }
