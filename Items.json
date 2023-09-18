@@ -4418,8 +4418,7 @@
       ],
       "itemIds": [
         "c0298decd571485a924f8441b38feb0a",
-        "ceb3f7910b254e21a29dc85f19fe3716",
-        "33463ee41d3c4805b475d6ea841c094a"
+        "ceb3f7910b254e21a29dc85f19fe3716"
       ],
       "itemQty": {
         "c0298decd571485a924f8441b38feb0a": 1,
@@ -4462,7 +4461,6 @@
       ],
       "itemIds": [
         "6612d166d3c14863a756848ba6acd11d",
-        "cb21551e8a4d4380b18ff2a13ade292c",
         "ef8117da082c4c7691b27ed9ebb1a223"
       ],
       "itemQty": {
@@ -4507,8 +4505,7 @@
       ],
       "itemIds": [
         "297c7c11e15c4ca3847e4494cff2352a",
-        "0ec654017e2c4b32868bf05f40578872",
-        "da3312f650154587bb5aa8a69a14d02e"
+        "0ec654017e2c4b32868bf05f40578872"
       ],
       "itemQty": {
         "297c7c11e15c4ca3847e4494cff2352a": 1,
@@ -19199,9 +19196,7 @@
           "discountPurchaseAt": "2023-09-06T13:25:25.236Z"
         }
       ],
-      "boundItemIds": [
-        "957560277d0f484390817596cb6f6792"
-      ],
+      "boundItemIds": [],
       "tags": [
         "PlatformOnly",
         "Epic"
@@ -19240,9 +19235,7 @@
           "discountPurchaseAt": "2023-09-06T13:24:28.508Z"
         }
       ],
-      "boundItemIds": [
-        "3c49d557e1b0440fa75e11bcede06d94"
-      ],
+      "boundItemIds": [],
       "tags": [
         "PlatformOnly",
         "PlayStation"
@@ -19320,9 +19313,7 @@
           "discountPurchaseAt": "2023-09-06T13:23:33.173Z"
         }
       ],
-      "boundItemIds": [
-        "0863f6d764a249649ef49545e3b9e4bb"
-      ],
+      "boundItemIds": [],
       "tags": [
         "PlatformOnly",
         "XBox"
