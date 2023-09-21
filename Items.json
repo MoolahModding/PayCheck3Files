@@ -16833,9 +16833,7 @@
           "discountPurchaseAt": "2023-02-22T14:18:12.522Z"
         }
       ],
-      "tags": [
-        "PlatformOnly"
-      ],
+      "tags": [],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
