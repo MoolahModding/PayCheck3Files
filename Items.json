@@ -4016,15 +4016,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 50,
+          "price": 5,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 50,
+          "discountedPrice": 5,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-02-07T09:37:52.191Z",
-          "discountPurchaseAt": "2023-02-07T09:37:52.191Z"
+          "purchaseAt": "2023-02-07T09:37:52.191Z"
         }
       ],
       "tags": [
@@ -14060,10 +14059,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 50,
+          "price": 5,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 50,
+          "discountedPrice": 5,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -20228,10 +20227,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 100,
+          "price": 10,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 100,
+          "discountedPrice": 10,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -20868,10 +20867,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 50,
+          "price": 5,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 50,
+          "discountedPrice": 5,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -24848,10 +24847,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 50,
+          "price": 5,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 50,
+          "discountedPrice": 5,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
