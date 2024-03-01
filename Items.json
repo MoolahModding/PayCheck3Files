@@ -995,10 +995,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 500,
+          "price": 200,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 500,
+          "discountedPrice": 200,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -1035,10 +1035,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 500,
+          "price": 200,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 500,
+          "discountedPrice": 200,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -1235,10 +1235,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 150,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 150,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -1275,10 +1275,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 500,
+          "price": 200,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 500,
+          "discountedPrice": 200,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -1315,10 +1315,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 500,
+          "price": 200,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 500,
+          "discountedPrice": 200,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -1355,10 +1355,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 500,
+          "price": 200,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 500,
+          "discountedPrice": 200,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -2022,6 +2022,76 @@
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
+      "title": "Cosmetic Mask Almir",
+      "itemId": "a6197966648945068bcce0b8ec2fc3cc",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_almir_mask_01",
+      "namespace": "pd3",
+      "name": "Cosmetic Mask Almir",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/PremiumMask",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T15:01:49.130Z",
+          "discountPurchaseAt": "2024-01-10T15:01:49.130Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T15:01:48.090Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "Cosmetic Mask Elizabeth",
+      "itemId": "abf74d4976594fd297f22cb8479d61ba",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_Elisabeth_mask_01",
+      "namespace": "pd3",
+      "name": "Cosmetic Mask Elizabeth",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/PremiumMask",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T15:00:56.751Z",
+          "discountPurchaseAt": "2024-01-10T15:00:56.751Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T15:00:55.714Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
       "title": "Crypto Wallet Timer Night Club Preplanning asset",
       "itemId": "dca07cf916b04dbf8f3eb4a134e874cf",
       "baseAppId": "",
@@ -2442,6 +2512,10 @@
       "itemQty": {
         "db780556b7c2474fbe790ebd0bf8cc61": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Epic"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -2504,6 +2578,10 @@
         "e0642a77bbd24ec0a38162377eada954": 1,
         "ac72fd0f475343298e31443f25fa50b9": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Epic"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -2554,6 +2632,10 @@
         "b4b433d76efd4c358c27df5ddb211987": 1,
         "3f1c861b3e8449ac9aef70399eca577f": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Epic"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -5131,10 +5213,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -5172,15 +5254,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:09:10.827Z",
-          "discountPurchaseAt": "2023-05-29T12:09:10.827Z"
+          "purchaseAt": "2023-05-29T12:09:10.827Z"
         }
       ],
       "itemQty": {},
@@ -5214,15 +5295,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:11:22.606Z",
-          "discountPurchaseAt": "2023-05-29T12:11:22.606Z"
+          "purchaseAt": "2023-05-29T12:11:22.606Z"
         }
       ],
       "itemQty": {},
@@ -5256,15 +5336,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:12:31.784Z",
-          "discountPurchaseAt": "2023-05-29T12:12:31.784Z"
+          "purchaseAt": "2023-05-29T12:12:31.784Z"
         }
       ],
       "itemQty": {},
@@ -5298,15 +5377,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:13:42.268Z",
-          "discountPurchaseAt": "2023-05-29T12:13:42.268Z"
+          "purchaseAt": "2023-05-29T12:13:42.268Z"
         }
       ],
       "itemQty": {},
@@ -5339,10 +5417,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -5380,15 +5458,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:15:18.631Z",
-          "discountPurchaseAt": "2023-05-29T12:15:18.631Z"
+          "purchaseAt": "2023-05-29T12:15:18.631Z"
         }
       ],
       "itemQty": {},
@@ -5422,15 +5499,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:16:44.620Z",
-          "discountPurchaseAt": "2023-05-29T12:16:44.620Z"
+          "purchaseAt": "2023-05-29T12:16:44.620Z"
         }
       ],
       "itemQty": {},
@@ -5464,15 +5540,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:18:56.095Z",
-          "discountPurchaseAt": "2023-05-29T12:18:56.095Z"
+          "purchaseAt": "2023-05-29T12:18:56.095Z"
         }
       ],
       "itemQty": {},
@@ -5506,15 +5581,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:22:13.147Z",
-          "discountPurchaseAt": "2023-05-29T12:22:13.147Z"
+          "purchaseAt": "2023-05-29T12:22:13.147Z"
         }
       ],
       "itemQty": {},
@@ -5547,10 +5621,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -5588,15 +5662,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:25:11.549Z",
-          "discountPurchaseAt": "2023-05-29T12:25:11.549Z"
+          "purchaseAt": "2023-05-29T12:25:11.549Z"
         }
       ],
       "itemQty": {},
@@ -5630,15 +5703,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:26:31.212Z",
-          "discountPurchaseAt": "2023-05-29T12:26:31.212Z"
+          "purchaseAt": "2023-05-29T12:26:31.212Z"
         }
       ],
       "itemQty": {},
@@ -5672,15 +5744,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:27:25.349Z",
-          "discountPurchaseAt": "2023-05-29T12:27:25.349Z"
+          "purchaseAt": "2023-05-29T12:27:25.349Z"
         }
       ],
       "itemQty": {},
@@ -5714,15 +5785,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 300,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 300,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2023-05-29T12:29:22.890Z",
-          "discountPurchaseAt": "2023-05-29T12:29:22.890Z"
+          "purchaseAt": "2023-05-29T12:29:22.890Z"
         }
       ],
       "itemQty": {},
@@ -7707,10 +7777,10 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 25,
+          "price": 100,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 25,
+          "discountedPrice": 100,
           "currencyCode": "GOLD",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
@@ -22033,6 +22103,10 @@
       "itemQty": {
         "a6f6219f6ab04b3b9d90ae7c6778b379": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "PlayStation"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -22095,6 +22169,10 @@
         "b2f20953043e4e91acd024cb019dd22b": 1,
         "99cab930bc954c799bccefa91f79234c": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "PlayStation"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -22145,6 +22223,10 @@
         "ab1f5877c5934f7596fc8d52210a6bfa": 1,
         "de618e94a2dc499d99c3eb4967061c50": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "PlayStation"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -24488,6 +24570,11 @@
       "itemQty": {},
       "boundItemIds": [
         "3c49d557e1b0440fa75e11bcede06d94"
+      ],
+      "tags": [
+        "PlatformOnly",
+        "PlayStation",
+        "Premium"
       ],
       "features": [],
       "maxCountPerUser": 1,
@@ -28817,6 +28904,376 @@
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
+      "title": "SprayCan_DigitalCamo_01",
+      "itemId": "c6331e17b78f46acb8408c4163d0f6b5",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_01",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_01",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:46:40.888Z",
+          "discountPurchaseAt": "2024-01-10T14:46:40.888Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:46:40.092Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_02",
+      "itemId": "2942f6a5b630486c90390536829fe0ae",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_02",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_02",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:48:15.398Z",
+          "discountPurchaseAt": "2024-01-10T14:48:15.398Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:48:14.402Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_03",
+      "itemId": "d297a43de4de49ef95826a9f5fec05f0",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_03",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_03",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:49:45.026Z",
+          "discountPurchaseAt": "2024-01-10T14:49:45.026Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:49:44.027Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_04",
+      "itemId": "f93ac2c5d4f848d28282ee5f27785924",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_04",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_04",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:50:34.081Z",
+          "discountPurchaseAt": "2024-01-10T14:50:34.081Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:50:33.069Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_05",
+      "itemId": "43747c3bfd2b44b18a0348d9a237c598",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_05",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_05",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:51:35.127Z",
+          "discountPurchaseAt": "2024-01-10T14:51:35.127Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:51:34.119Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_06",
+      "itemId": "8984265643c64a86a1537760f9ad6cfc",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_06",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_06",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:52:20.233Z",
+          "discountPurchaseAt": "2024-01-10T14:52:20.233Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:52:19.228Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_07",
+      "itemId": "b83f8574bb694c9cbdd9a14291380a2a",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_07",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_07",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:53:58.321Z",
+          "discountPurchaseAt": "2024-01-10T14:53:58.321Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:53:57.299Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_08",
+      "itemId": "f673af3f66a247128a2691bb0c627535",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_08",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_08",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:54:43.641Z",
+          "discountPurchaseAt": "2024-01-10T14:54:43.641Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:54:42.630Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_09",
+      "itemId": "f559790b81ac47a5ac8873d3950fcaa1",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_09",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_09",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:55:28.411Z",
+          "discountPurchaseAt": "2024-01-10T14:55:28.411Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:55:27.381Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "SprayCan_DigitalCamo_10",
+      "itemId": "016c9db842934de8a81316d9e9d5351b",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_renown_spct_camo_10",
+      "namespace": "pd3",
+      "name": "SprayCan_DigitalCamo_10",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/SprayPaint",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 999,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 999,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-01-10T14:56:10.816Z",
+          "discountPurchaseAt": "2024-01-10T14:56:10.816Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-01-10T14:56:09.790Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
       "title": "Steam DLC01 Heist pack",
       "itemId": "f7bb2ffd415b4e39be0c09ebb6736b9a",
       "baseAppId": "",
@@ -28848,6 +29305,10 @@
       "itemQty": {
         "9b3e2be8772e4674bb85dc28f533924e": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Steam"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -28912,6 +29373,10 @@
         "09d5e836e5a041d7a73d5e4a6782d12b": 1,
         "36d2557e1a344a62bb52c52201eaa1bc": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Steam"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -28962,6 +29427,10 @@
         "76fb37baed294bb8a8bb1d8a7220d029": 1,
         "db016db364ee4309a33672b370535c6a": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "Steam"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -33895,6 +34364,10 @@
       "itemQty": {
         "31a224936c0846799ce55efaa3245d9d": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "XBox"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -33957,6 +34430,10 @@
         "afb59e9b79e94b61b6af5e444b6a9321": 1,
         "180c23749e884bb7838e55d4c7a81eda": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "XBox"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -34007,6 +34484,10 @@
         "20a03764eebe48e685a8c018945c1b93": 1,
         "ce78e08b2d9b48d3ab98c6b500715202": 1
       },
+      "tags": [
+        "PlatformOnly",
+        "XBox"
+      ],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,

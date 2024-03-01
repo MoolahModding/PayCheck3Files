@@ -82317,13 +82317,13 @@
           "items": []
         },
         "tags": [
-          "Bank",
-          "Hard",
-          "Heist",
-          "Loud",
           "Map",
+          "Loud",
+          "Heist",
+          "Very",
+          "Hard",
           "Sharke",
-          "Very"
+          "Bank"
         ],
         "orderNo": 20,
         "createdAt": "2022-04-19T13:05:16Z",
@@ -82974,12 +82974,12 @@
           "items": []
         },
         "tags": [
-          "Bank",
-          "Heist",
-          "Loud",
           "Map",
+          "Loud",
+          "Heist",
           "Overkill",
-          "Sharke"
+          "Sharke",
+          "Bank"
         ],
         "orderNo": 21,
         "createdAt": "2022-04-19T13:06:48Z",
@@ -84262,12 +84262,12 @@
           "items": []
         },
         "tags": [
-          "Bank",
-          "Hard",
-          "Heist",
           "Map",
+          "Stealth",
+          "Heist",
+          "Hard",
           "Sharke",
-          "Stealth"
+          "Bank"
         ],
         "orderNo": 23,
         "createdAt": "2022-04-19T13:09:44Z",
@@ -84910,13 +84910,13 @@
           "items": []
         },
         "tags": [
-          "Bank",
-          "Hard",
-          "Heist",
           "Map",
-          "Sharke",
           "Stealth",
-          "Very"
+          "Heist",
+          "Very",
+          "Hard",
+          "Sharke",
+          "Bank"
         ],
         "orderNo": 24,
         "createdAt": "2022-04-19T13:11:02Z",
@@ -85567,12 +85567,12 @@
           "items": []
         },
         "tags": [
-          "Bank",
-          "Heist",
           "Map",
+          "Stealth",
+          "Heist",
           "Overkill",
           "Sharke",
-          "Stealth"
+          "Bank"
         ],
         "orderNo": 25,
         "createdAt": "2022-04-19T13:13:20Z",
@@ -97503,6 +97503,70 @@
           "stats": [
             {
               "statCode": "villa-optional-objective-3",
+              "currentValue": 0,
+              "targetValue": 1
+            }
+          ]
+        }
+      },
+      "updatedAt": "updatedattomakegitdiffseasiertoread",
+      "status": "INPROGRESS",
+      "isActive": true
+    },
+    {
+      "recordId": "REPLACEME",
+      "namespace": "pd3",
+      "userId": "REPLACEME",
+      "challenge": {
+        "challengeId": "65686cf256fdd7be8e288a17",
+        "namespace": "pd3",
+        "name": "Villa Optional Objective IV",
+        "description": "Complete the heist with 19 pure batches cooked and secured on Overkill or higher.",
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "villa-optional-objective-4",
+              "value": 1
+            }
+          ]
+        },
+        "reward": {
+          "rewardId": "65686cf2bc15df0001eeb69b",
+          "stats": [],
+          "items": [
+            {
+              "itemId": "667246b3d92345e591c906be9c593c8a",
+              "quantity": 1,
+              "isActive": false
+            }
+          ]
+        },
+        "tags": [
+          "Map",
+          "Heist",
+          "Villa",
+          "Optional"
+        ],
+        "orderNo": 2147484465,
+        "createdAt": "2023-11-30T11:07:30Z",
+        "updatedAt": "updatedattomakegitdiffseasiertoread",
+        "isActive": true
+      },
+      "progress": {
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "villa-optional-objective-4",
               "currentValue": 0,
               "targetValue": 1
             }
