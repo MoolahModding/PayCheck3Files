@@ -527,6 +527,41 @@
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
+      "title": "Adaptable Ballistic Vest",
+      "itemId": "d8a354e8a8de411582a02e655a0f54f2",
+      "baseAppId": "",
+      "sku": "pd3_armor_adaptableballistictvest",
+      "namespace": "pd3",
+      "name": "Adaptable Ballistic Vest",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/Armor",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 0,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 0,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-03-08T08:40:08.794Z",
+          "discountPurchaseAt": "2024-03-08T08:40:08.794Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-03-08T08:40:08.779Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
       "title": "Additional Loot Secure Point Art Gallery Preplanning asset",
       "itemId": "ed77cf56bf8d435ab25b07eb476bf341",
       "baseAppId": "",
@@ -7875,6 +7910,41 @@
     },
     {
       "title": "Heist Art Gallery",
+      "itemId": "489d79f9aab64f449f67748aa97259d0",
+      "baseAppId": "",
+      "sku": "pd3_heist_art_gallery",
+      "namespace": "pd3",
+      "name": "Heist Art Gallery",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/Heist",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 0,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 0,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2023-10-31T14:31:38.567Z",
+          "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": 1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2023-10-31T14:31:37.968Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "Heist Art Gallery",
       "itemId": "66e4918f797d4bd0b8e8eb43e8a15687",
       "baseAppId": "",
       "sku": "pd3_steam_heist_art_gallery",
@@ -7910,41 +7980,6 @@
       "region": "SE",
       "language": "en-US",
       "createdAt": "2023-10-31T12:21:08.848Z",
-      "updatedAt": "updatedattomakegitdiffseasiertoread"
-    },
-    {
-      "title": "Heist Art Gallery",
-      "itemId": "489d79f9aab64f449f67748aa97259d0",
-      "baseAppId": "",
-      "sku": "pd3_heist_art_gallery",
-      "namespace": "pd3",
-      "name": "Heist Art Gallery",
-      "entitlementType": "DURABLE",
-      "categoryPath": "/Heist",
-      "status": "ACTIVE",
-      "listable": true,
-      "purchasable": true,
-      "itemType": "INGAMEITEM",
-      "regionData": [
-        {
-          "price": 0,
-          "discountPercentage": 0,
-          "discountAmount": 0,
-          "discountedPrice": 0,
-          "currencyCode": "CASH",
-          "currencyType": "VIRTUAL",
-          "currencyNamespace": "pd3",
-          "purchaseAt": "2023-10-31T14:31:38.567Z",
-          "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
-        }
-      ],
-      "itemQty": {},
-      "features": [],
-      "maxCountPerUser": 1,
-      "maxCount": -1,
-      "region": "SE",
-      "language": "en-US",
-      "createdAt": "2023-10-31T14:31:37.968Z",
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
@@ -8089,6 +8124,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "2b1086a1125a4b75ad9bfa0af7128f12"
       ],
       "tags": [
@@ -22236,6 +22272,86 @@
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
+      "title": "PlayStation JP Silver Edition Bundle",
+      "itemId": "d5661cf5254742c592716765ededa87a",
+      "baseAppId": "",
+      "sku": "PD3_playstation_silver_jp_edition",
+      "namespace": "pd3",
+      "name": "PlayStation JP Silver Edition Bundle",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/Bundle",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "BUNDLE",
+      "regionData": [
+        {
+          "price": 0,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 0,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-03-15T10:01:58.697Z",
+          "discountPurchaseAt": "2024-03-15T10:01:58.697Z"
+        }
+      ],
+      "itemIds": [
+        "a6f6219f6ab04b3b9d90ae7c6778b379",
+        "1bd8171c04074c9fad15981759c93e6d",
+        "5ec14652f10b454db1fa6e5407ecc3c7",
+        "ab79e2bf8acb4f0785aaa41d1cabccc9",
+        "99cab930bc954c799bccefa91f79234c",
+        "754680e38dd74f7d914336a704162fb8",
+        "5c70de7544564ae590fdbb2d8eda5961",
+        "b2f20953043e4e91acd024cb019dd22b",
+        "2bad50b4125d41c9889b61ee94835d44",
+        "c7d62ea4cbc24792bf90dd45bbdee1d5",
+        "b5c5c8b0975245649fa3543c275dd2aa",
+        "9cd0150a7cad409a9abd29c451fbc9df",
+        "3468072166c4415da28d1ea8e6de1f1a",
+        "ec444dcf8a8445f18eae9835f7a57792",
+        "2ddf331786e74dad9e6dbbcb549a7af7",
+        "ab1f5877c5934f7596fc8d52210a6bfa",
+        "de618e94a2dc499d99c3eb4967061c50",
+        "f9a13e6c2a0f4e6d9251347bc63634c7",
+        "ab1770e446d3426a98cb20c7f62eb713"
+      ],
+      "itemQty": {
+        "a6f6219f6ab04b3b9d90ae7c6778b379": 1,
+        "1bd8171c04074c9fad15981759c93e6d": 1,
+        "5ec14652f10b454db1fa6e5407ecc3c7": 1,
+        "ab79e2bf8acb4f0785aaa41d1cabccc9": 1,
+        "99cab930bc954c799bccefa91f79234c": 1,
+        "754680e38dd74f7d914336a704162fb8": 1,
+        "5c70de7544564ae590fdbb2d8eda5961": 1,
+        "b2f20953043e4e91acd024cb019dd22b": 1,
+        "2bad50b4125d41c9889b61ee94835d44": 1,
+        "c7d62ea4cbc24792bf90dd45bbdee1d5": 1,
+        "b5c5c8b0975245649fa3543c275dd2aa": 1,
+        "9cd0150a7cad409a9abd29c451fbc9df": 1,
+        "3468072166c4415da28d1ea8e6de1f1a": 1,
+        "ec444dcf8a8445f18eae9835f7a57792": 1,
+        "2ddf331786e74dad9e6dbbcb549a7af7": 1,
+        "ab1f5877c5934f7596fc8d52210a6bfa": 1,
+        "de618e94a2dc499d99c3eb4967061c50": 1,
+        "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
+        "ab1770e446d3426a98cb20c7f62eb713": 1
+      },
+      "tags": [
+        "PlatformOnly",
+        "PlayStation"
+      ],
+      "features": [],
+      "maxCountPerUser": 1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-03-15T10:01:58.918Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
       "title": "PlayStation MOD Sight LightHolographic",
       "itemId": "23a3102b317a45399520ebd9ebbfa535",
       "baseAppId": "",
@@ -22417,6 +22533,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "926f52f52f0c4103aab2086175b947fa"
       ],
       "tags": [
@@ -22502,6 +22619,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "926f52f52f0c4103aab2086175b947fa"
       ],
       "tags": [
@@ -22587,6 +22705,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "926f52f52f0c4103aab2086175b947fa"
       ],
       "tags": [
@@ -22630,6 +22749,7 @@
       "itemQty": {},
       "boundItemIds": [
         "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a",
         "f5ab43b08c0445f29709eb05f67178bd"
       ],
       "tags": [
@@ -22673,7 +22793,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22716,7 +22837,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22759,7 +22881,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22802,7 +22925,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22845,7 +22969,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22888,7 +23013,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22931,7 +23057,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -22974,7 +23101,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -23017,7 +23145,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -23060,7 +23189,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -23103,7 +23233,8 @@
       ],
       "itemQty": {},
       "boundItemIds": [
-        "5a5f6556433340a5bf5b9df009500923"
+        "5a5f6556433340a5bf5b9df009500923",
+        "d5661cf5254742c592716765ededa87a"
       ],
       "tags": [
         "PlatformOnly",
@@ -23148,6 +23279,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "926f52f52f0c4103aab2086175b947fa"
       ],
       "tags": [
@@ -23192,6 +23324,7 @@
       ],
       "itemQty": {},
       "boundItemIds": [
+        "d5661cf5254742c592716765ededa87a",
         "926f52f52f0c4103aab2086175b947fa"
       ],
       "tags": [
@@ -23921,7 +24054,7 @@
       "categoryPath": "/PremiumMask",
       "status": "ACTIVE",
       "listable": true,
-      "purchasable": false,
+      "purchasable": true,
       "itemType": "INGAMEITEM",
       "regionData": [
         {
@@ -32556,7 +32689,6 @@
         }
       ],
       "itemQty": {},
-      "tags": [],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,
@@ -33448,7 +33580,6 @@
         }
       ],
       "itemQty": {},
-      "tags": [],
       "features": [],
       "maxCountPerUser": 1,
       "maxCount": -1,

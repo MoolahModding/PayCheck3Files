@@ -49975,6 +49975,67 @@
       "namespace": "pd3",
       "userId": "REPLACEME",
       "challenge": {
+        "challengeId": "6603f3030ae9b854caec47ae",
+        "namespace": "pd3",
+        "name": "Infamy MS - Armor - Adaptable Ballistic Vest",
+        "description": "Adaptable Ballistic Vest",
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "infamy-point",
+              "value": 6200
+            }
+          ]
+        },
+        "reward": {
+          "rewardId": "6603f303a82d8c00019bbc98",
+          "stats": [],
+          "items": [
+            {
+              "itemId": "d8a354e8a8de411582a02e655a0f54f2",
+              "quantity": 1,
+              "isActive": false
+            }
+          ]
+        },
+        "tags": [
+          "General Meta"
+        ],
+        "orderNo": 2147484683,
+        "createdAt": "2024-03-27T10:20:51Z",
+        "updatedAt": "updatedattomakegitdiffseasiertoread",
+        "isActive": true
+      },
+      "progress": {
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "infamy-point",
+              "currentValue": 0,
+              "targetValue": 6200
+            }
+          ]
+        }
+      },
+      "updatedAt": "updatedattomakegitdiffseasiertoread",
+      "status": "INPROGRESS",
+      "isActive": true
+    },
+    {
+      "recordId": "REPLACEME",
+      "namespace": "pd3",
+      "userId": "REPLACEME",
+      "challenge": {
         "challengeId": "6363b9a54e9e44b7cd7f1cda",
         "namespace": "pd3",
         "name": "Infamy MS - Armor - Combat Vest",
