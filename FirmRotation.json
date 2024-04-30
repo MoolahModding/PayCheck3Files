@@ -23,11 +23,11 @@
         "LevelShortName": "BranchBank",
         "Normal": [],
         "Overkill": [
-          "GenSec",
+          "AmGuard",
           "Senturian"
         ],
         "VeryHard": [
-          "GenSec"
+          "AmGuard"
         ]
       },
       {
@@ -36,11 +36,11 @@
         "LevelShortName": "JewelryStore",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "GenSec"
+          "GenSec",
+          "Senturian"
         ],
         "VeryHard": [
-          "AmGuard"
+          "GenSec"
         ]
       },
       {
@@ -49,11 +49,11 @@
         "LevelShortName": "NightClub",
         "Normal": [],
         "Overkill": [
-          "Senturian",
-          "GenSec"
+          "AmGuard",
+          "Senturian"
         ],
         "VeryHard": [
-          "Senturian"
+          "AmGuard"
         ]
       },
       {
@@ -62,11 +62,11 @@
         "LevelShortName": "ArtGallery",
         "Normal": [],
         "Overkill": [
-          "Senturian",
-          "AmGuard"
+          "AmGuard",
+          "GenSec"
         ],
         "VeryHard": [
-          "Senturian"
+          "AmGuard"
         ]
       },
       {
@@ -75,11 +75,11 @@
         "LevelShortName": "FirstPlayable",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "GenSec"
+          "Senturian",
+          "AmGuard"
         ],
         "VeryHard": [
-          "AmGuard"
+          "Senturian"
         ]
       },
       {
@@ -89,7 +89,7 @@
         "Normal": [],
         "Overkill": [
           "GenSec",
-          "AmGuard"
+          "Senturian"
         ],
         "VeryHard": [
           "GenSec"
@@ -102,7 +102,7 @@
         "Normal": [],
         "Overkill": [
           "GenSec",
-          "AmGuard"
+          "Senturian"
         ],
         "VeryHard": [
           "GenSec"
@@ -127,15 +127,15 @@
         "LevelShortName": "Datacenter",
         "Normal": [],
         "Overkill": [
-          "Senturian",
-          "AmGuard"
+          "AmGuard",
+          "GenSec"
         ],
         "VeryHard": [
-          "Senturian"
+          "AmGuard"
         ]
       }
     ]
   },
   "created_at": "2023-03-03T09:47:36.276Z",
-  "updated_at": "2024-03-27T10:20:42.274Z"
+  "updated_at": "2024-04-24T12:14:18.032Z"
 }

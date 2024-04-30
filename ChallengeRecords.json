@@ -50594,6 +50594,68 @@
       "namespace": "pd3",
       "userId": "REPLACEME",
       "challenge": {
+        "challengeId": "6630afa337fd0974ece0c910",
+        "namespace": "pd3",
+        "name": "Infamy MS - Throwable - Shock Grenade",
+        "description": "Reach Infamy Level 39 to unlock Shock Grenade",
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "infamy-point",
+              "value": 10100
+            }
+          ]
+        },
+        "reward": {
+          "rewardId": "6630afa3230bab0001237d16",
+          "stats": [],
+          "items": [
+            {
+              "itemId": "99050b7b8ef14affabfce4cf2084597f",
+              "quantity": 1,
+              "isActive": false
+            }
+          ]
+        },
+        "tags": [
+          "General",
+          "Meta"
+        ],
+        "orderNo": 2147484684,
+        "createdAt": "2024-04-30T08:45:23Z",
+        "updatedAt": "updatedattomakegitdiffseasiertoread",
+        "isActive": true
+      },
+      "progress": {
+        "prerequisite": {
+          "stats": [],
+          "items": [],
+          "completedChallengeIds": []
+        },
+        "objective": {
+          "stats": [
+            {
+              "statCode": "infamy-point",
+              "currentValue": 0,
+              "targetValue": 10100
+            }
+          ]
+        }
+      },
+      "updatedAt": "updatedattomakegitdiffseasiertoread",
+      "status": "INPROGRESS",
+      "isActive": true
+    },
+    {
+      "recordId": "REPLACEME",
+      "namespace": "pd3",
+      "userId": "REPLACEME",
+      "challenge": {
         "challengeId": "6363b61a4e9e44b7cd7f1b6a",
         "namespace": "pd3",
         "name": "Infamy MS - Throwable - Smoke Grenade",

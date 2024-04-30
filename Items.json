@@ -7910,41 +7910,6 @@
     },
     {
       "title": "Heist Art Gallery",
-      "itemId": "489d79f9aab64f449f67748aa97259d0",
-      "baseAppId": "",
-      "sku": "pd3_heist_art_gallery",
-      "namespace": "pd3",
-      "name": "Heist Art Gallery",
-      "entitlementType": "DURABLE",
-      "categoryPath": "/Heist",
-      "status": "ACTIVE",
-      "listable": true,
-      "purchasable": true,
-      "itemType": "INGAMEITEM",
-      "regionData": [
-        {
-          "price": 0,
-          "discountPercentage": 0,
-          "discountAmount": 0,
-          "discountedPrice": 0,
-          "currencyCode": "CASH",
-          "currencyType": "VIRTUAL",
-          "currencyNamespace": "pd3",
-          "purchaseAt": "2023-10-31T14:31:38.567Z",
-          "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
-        }
-      ],
-      "itemQty": {},
-      "features": [],
-      "maxCountPerUser": 1,
-      "maxCount": -1,
-      "region": "SE",
-      "language": "en-US",
-      "createdAt": "2023-10-31T14:31:37.968Z",
-      "updatedAt": "updatedattomakegitdiffseasiertoread"
-    },
-    {
-      "title": "Heist Art Gallery",
       "itemId": "66e4918f797d4bd0b8e8eb43e8a15687",
       "baseAppId": "",
       "sku": "pd3_steam_heist_art_gallery",
@@ -7980,6 +7945,41 @@
       "region": "SE",
       "language": "en-US",
       "createdAt": "2023-10-31T12:21:08.848Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "Heist Art Gallery",
+      "itemId": "489d79f9aab64f449f67748aa97259d0",
+      "baseAppId": "",
+      "sku": "pd3_heist_art_gallery",
+      "namespace": "pd3",
+      "name": "Heist Art Gallery",
+      "entitlementType": "DURABLE",
+      "categoryPath": "/Heist",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 0,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 0,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2023-10-31T14:31:38.567Z",
+          "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
+        }
+      ],
+      "itemQty": {},
+      "features": [],
+      "maxCountPerUser": 1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2023-10-31T14:31:37.968Z",
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
@@ -26583,6 +26583,42 @@
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
+      "title": "Shock Grenade",
+      "itemId": "99050b7b8ef14affabfce4cf2084597f",
+      "baseAppId": "",
+      "sku": "pd3_throwable_shockgrenade",
+      "namespace": "pd3",
+      "name": "Shock Grenade",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "categoryPath": "/Throwables",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 0,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 0,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-03-20T13:22:45.074Z"
+        }
+      ],
+      "itemQty": {},
+      "tags": [],
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-03-20T13:22:45.606Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
       "title": "Shotgun Mosconi12C",
       "itemId": "20ad75ceb451400dbde1e203dfb5e50a",
       "baseAppId": "",
@@ -34119,6 +34155,46 @@
       "region": "SE",
       "language": "en-US",
       "createdAt": "2022-11-25T10:13:47.455Z",
+      "updatedAt": "updatedattomakegitdiffseasiertoread"
+    },
+    {
+      "title": "Weapon Sticker HelmetPop",
+      "itemId": "cf4285a7bf6d4542a2f64c9708c317cd",
+      "baseAppId": "",
+      "sku": "pd3_cosmetic_weapon_sticker_helmetpop",
+      "namespace": "pd3",
+      "name": "Weapon Sticker HelmetPop",
+      "entitlementType": "CONSUMABLE",
+      "useCount": 1,
+      "stackable": true,
+      "categoryPath": "/WeaponSticker",
+      "status": "ACTIVE",
+      "listable": true,
+      "purchasable": true,
+      "itemType": "INGAMEITEM",
+      "regionData": [
+        {
+          "price": 3000,
+          "discountPercentage": 0,
+          "discountAmount": 0,
+          "discountedPrice": 3000,
+          "currencyCode": "CASH",
+          "currencyType": "VIRTUAL",
+          "currencyNamespace": "pd3",
+          "purchaseAt": "2024-04-12T12:10:04.514Z",
+          "discountPurchaseAt": "2024-04-12T12:10:04.514Z"
+        }
+      ],
+      "itemQty": {},
+      "tags": [
+        "CombatEquipmentVendor"
+      ],
+      "features": [],
+      "maxCountPerUser": -1,
+      "maxCount": -1,
+      "region": "SE",
+      "language": "en-US",
+      "createdAt": "2024-04-12T12:10:04.699Z",
       "updatedAt": "updatedattomakegitdiffseasiertoread"
     },
     {
