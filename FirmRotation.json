@@ -10,11 +10,11 @@
         "LevelShortName": "",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "GenSec"
+          "",
+          ""
         ],
         "VeryHard": [
-          "GenSec"
+          ""
         ]
       },
       {
@@ -23,11 +23,27 @@
         "LevelShortName": "BranchBank",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "Senturian"
+          "GenSec",
+          "FacialRecognition",
+          "HardBargain",
+          "AlphaStrike"
         ],
         "VeryHard": [
-          "AmGuard"
+          "GenSec",
+          "HardBargain"
+        ]
+      },
+      {
+        "Description": "Armored Transport security modifiers",
+        "Hard": [],
+        "LevelShortName": "ArmoredTransport",
+        "Normal": [],
+        "Overkill": [
+          "DebilitatingSpecials",
+          "AlphaStrike"
+        ],
+        "VeryHard": [
+          "DebilitatingSpecials"
         ]
       },
       {
@@ -36,11 +52,14 @@
         "LevelShortName": "JewelryStore",
         "Normal": [],
         "Overkill": [
+          "AmGuard",
           "GenSec",
-          "Senturian"
+          "BuddySystem",
+          "ArmorPiercing"
         ],
         "VeryHard": [
-          "GenSec"
+          "AmGuard",
+          "BuddySystem"
         ]
       },
       {
@@ -49,11 +68,14 @@
         "LevelShortName": "NightClub",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "Senturian"
+          "Senturian",
+          "FacialRecognition",
+          "BuddySystem",
+          "DebilitatingSpecials"
         ],
         "VeryHard": [
-          "AmGuard"
+          "Senturian",
+          "BuddySystem"
         ]
       },
       {
@@ -62,11 +84,14 @@
         "LevelShortName": "ArtGallery",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
-          "GenSec"
+          "AICore",
+          "Senturian",
+          "ReflectorShields",
+          "AlphaStrike"
         ],
         "VeryHard": [
-          "AmGuard"
+          "AICore",
+          "ReflectorShields"
         ]
       },
       {
@@ -75,11 +100,14 @@
         "LevelShortName": "FirstPlayable",
         "Normal": [],
         "Overkill": [
-          "Senturian",
-          "AmGuard"
+          "AICore",
+          "FacialRecognition",
+          "ReflectorShields",
+          "BuddySystem"
         ],
         "VeryHard": [
-          "Senturian"
+          "AICore",
+          "ReflectorShields"
         ]
       },
       {
@@ -88,11 +116,14 @@
         "LevelShortName": "CargoDock",
         "Normal": [],
         "Overkill": [
-          "GenSec",
-          "Senturian"
+          "AmGuard",
+          "AICore",
+          "HardBargain",
+          "DebilitatingSpecials"
         ],
         "VeryHard": [
-          "GenSec"
+          "AmGuard",
+          "HardBargain"
         ]
       },
       {
@@ -102,10 +133,13 @@
         "Normal": [],
         "Overkill": [
           "GenSec",
-          "Senturian"
+          "AmGuard",
+          "ReflectorShields",
+          "HardBargain"
         ],
         "VeryHard": [
-          "GenSec"
+          "GenSec",
+          "ReflectorShields"
         ]
       },
       {
@@ -122,20 +156,36 @@
         ]
       },
       {
+        "Description": "Cook off security modifiers",
+        "Hard": [],
+        "LevelShortName": "Villa",
+        "Normal": [],
+        "Overkill": [
+          "ReflectorShields",
+          "ArmorPiercing"
+        ],
+        "VeryHard": [
+          "ReflectorShields"
+        ]
+      },
+      {
         "Description": "Data Center security modifiers",
         "Hard": [],
         "LevelShortName": "Datacenter",
         "Normal": [],
         "Overkill": [
+          "GenSec",
           "AmGuard",
-          "GenSec"
+          "BuddySystem",
+          "AlphaStrike"
         ],
         "VeryHard": [
-          "AmGuard"
+          "GenSec",
+          "BuddySystem"
         ]
       }
     ]
   },
   "created_at": "2023-03-03T09:47:36.276Z",
-  "updated_at": "2024-04-24T12:14:18.032Z"
+  "updated_at": "2024-05-29T09:02:03.439Z"
 }

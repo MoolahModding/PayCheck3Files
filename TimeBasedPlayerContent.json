@@ -1,0 +1,31 @@
+[
+  {
+    "namespace": "pd3",
+    "key": "time-based-player-content",
+    "set_by": "SERVER",
+    "value": {
+      "MaskOfTheWeek": {
+        "MaskOfTheWeekBlockArray": [
+          {
+            "MaskOfTheWeekSkuArray": [
+              "pd3_cosmetic_mask_pdstore1",
+              "pd3_cosmetic_mask_pdstore1",
+              "pd3_cosmetic_mask_pdstore1",
+              "pd3_cosmetic_mask_premium6",
+              "pd3_cosmetic_mask_pdstore5",
+              "pd3_cosmetic_mask_pdstore7",
+              "pd3_cosmetic_mask_pdstore2",
+              "pd3_cosmetic_mask_pdstore3",
+              "pd3_cosmetic_mask_premium8",
+              "pd3_cosmetic_mask_pdstore6"
+            ],
+            "StartDate": "2024.05.20-00.00.00",
+            "StopDate": "2030.05.27-23.59.00"
+          }
+        ]
+      }
+    },
+    "created_at": "2024-04-30T08:45:14.732Z",
+    "updated_at": "2024-05-29T09:02:03.524Z"
+  }
+]

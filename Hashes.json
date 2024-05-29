@@ -1,12 +1,15 @@
 {
   "BasicInfamyTable.json": "4b1b4823572ad391bb66cf67485d60a6cdbbe89ee75ff88b0fad1c0e8a6a1591",
   "ChallengeRecommendations.json": "7abe000523af9c94673372891898a70256d0017553446890ff18ebb8f6e4e629",
-  "ChallengeRecords.json": "11a7876a5b428a7c9c686f0029f7d26b23afe0138b3d41a17c57527c9c5c38a2",
+  "ChallengeRecords.json": "d68836aad0de31e2bbd12286324855faa670177c0dbb8515153405fbaeb1e33d",
+  "ClientConfiguration.json": "9a4c2c5cf511e51cfa1ec675dd9b8f742ba324dfb833c1915443d6c7dc27253c",
   "Entitlements.json": "20bebcec38d828f0bcd3d0494d8650bda21c7e46f78723cbb2e25e24e533bd2b",
-  "FirmRotation.json": "df37418a24a9ff7e5e48a9213f0ad4a5778c1851fcbc7f17ed87932922c3a94f",
-  "Items.json": "f0557526fba4680886533e9f55fe4728367d350a26f43b68a5fae6badfd32e20",
-  "MetaEvents.json": "82a8877ff659e605ebc3ae3853ebe65d75f4b62b59ab0ca8e21c6dbbf94cdbdf",
+  "FeatureToggle.json": "f1ee59bc1528c8f5a3020cf38e3da986d1ce553d4df5cc18ea0a0f58e8f88729",
+  "FirmRotation.json": "ef28fbbe2dff73edbf92d390805f82037e6cdd84678101deb3454a03a2a78da5",
+  "Items.json": "70061a97fe2eb013ca2f91b1ea4d1e4872be01746b72a413410f224dafc054a4",
+  "MetaEvents.json": "517373b4a5fab3541f74970f7b38b72b84119de4f3fe5026581e5813122c7120",
   "NewsFeed.json": "2bc14a1fef9189ff4be836e88acf60d560659c4a4c98ec97125142d05e2efe3a",
-  "UpdatedAtTimes.json": "0f13ede60a77dba336c619bfe5572c6de25e2832c2a85589b6f2d2357a9e8490",
+  "TimeBasedPlayerContent.json": "4374bce14ed5c8e6a49ae9f0af42bb6ad2839031c2f362a8e3a3c5fd25ae3a77",
+  "UpdatedAtTimes.json": "01692ae809e56382f304cbc04e0694d04a83a23176f8e0ed9af0e72e22351111",
   "WeaponTables.json": "1005e080723504c8c822ead8b6b5bb05635d84d4c0f4a366c2019ca414a0ed4a"
 }

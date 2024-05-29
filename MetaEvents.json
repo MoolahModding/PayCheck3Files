@@ -2,23 +2,7 @@
   "namespace": "pd3",
   "key": "meta-events",
   "set_by": "SERVER",
-  "value": {
-    "ActiveEventType": "IncreasedXP",
-    "MetaEvents": [
-      {
-        "Description": "Double XP",
-        "EventType": "IncreasedXP",
-        "Modifiers": [
-          {
-            "ModifierType": "XP",
-            "Multiplier": 2
-          }
-        ],
-        "StartDate": "2024.05.02-13.00.00",
-        "StopDate": "2024.05.07-10.00.00"
-      }
-    ]
-  },
+  "value": {},
   "created_at": "2022-09-30T10:50:29.387Z",
-  "updated_at": "2024-05-03T10:54:58.36Z"
+  "updated_at": "2024-05-06T08:50:54.034Z"
 }
