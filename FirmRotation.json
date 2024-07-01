@@ -23,13 +23,13 @@
         "LevelShortName": "BranchBank",
         "Normal": [],
         "Overkill": [
-          "GenSec",
+          "AICore",
           "FacialRecognition",
           "HardBargain",
           "AlphaStrike"
         ],
         "VeryHard": [
-          "GenSec",
+          "AICore",
           "HardBargain"
         ]
       },
@@ -40,7 +40,7 @@
         "Normal": [],
         "Overkill": [
           "DebilitatingSpecials",
-          "AlphaStrike"
+          "BuddySystem"
         ],
         "VeryHard": [
           "DebilitatingSpecials"
@@ -52,8 +52,24 @@
         "LevelShortName": "JewelryStore",
         "Normal": [],
         "Overkill": [
+          "Senturian",
           "AmGuard",
-          "GenSec",
+          "ReflectorShields",
+          "DebilitatingSpecials"
+        ],
+        "VeryHard": [
+          "Senturian",
+          "ReflectorShields"
+        ]
+      },
+      {
+        "Description": "Night Club security modifiers",
+        "Hard": [],
+        "LevelShortName": "NightClub",
+        "Normal": [],
+        "Overkill": [
+          "AmGuard",
+          "AICore",
           "BuddySystem",
           "ArmorPiercing"
         ],
@@ -63,34 +79,18 @@
         ]
       },
       {
-        "Description": "Night Club security modifiers",
-        "Hard": [],
-        "LevelShortName": "NightClub",
-        "Normal": [],
-        "Overkill": [
-          "Senturian",
-          "FacialRecognition",
-          "BuddySystem",
-          "DebilitatingSpecials"
-        ],
-        "VeryHard": [
-          "Senturian",
-          "BuddySystem"
-        ]
-      },
-      {
         "Description": "Art Gallery security modifiers",
         "Hard": [],
         "LevelShortName": "ArtGallery",
         "Normal": [],
         "Overkill": [
-          "AICore",
+          "GenSec",
           "Senturian",
           "ReflectorShields",
           "AlphaStrike"
         ],
         "VeryHard": [
-          "AICore",
+          "GenSec",
           "ReflectorShields"
         ]
       },
@@ -102,12 +102,12 @@
         "Overkill": [
           "AICore",
           "FacialRecognition",
-          "ReflectorShields",
-          "BuddySystem"
+          "HardBargain",
+          "ArmorPiercing"
         ],
         "VeryHard": [
           "AICore",
-          "ReflectorShields"
+          "HardBargain"
         ]
       },
       {
@@ -116,14 +116,14 @@
         "LevelShortName": "CargoDock",
         "Normal": [],
         "Overkill": [
-          "AmGuard",
+          "GenSec",
           "AICore",
-          "HardBargain",
-          "DebilitatingSpecials"
+          "BuddySystem",
+          "ReflectorShields"
         ],
         "VeryHard": [
-          "AmGuard",
-          "HardBargain"
+          "GenSec",
+          "BuddySystem"
         ]
       },
       {
@@ -132,14 +132,14 @@
         "LevelShortName": "Penthouse",
         "Normal": [],
         "Overkill": [
-          "GenSec",
           "AmGuard",
-          "ReflectorShields",
-          "HardBargain"
+          "GenSec",
+          "HardBargain",
+          "ArmorPiercing"
         ],
         "VeryHard": [
-          "GenSec",
-          "ReflectorShields"
+          "AmGuard",
+          "HardBargain"
         ]
       },
       {
@@ -148,11 +148,11 @@
         "LevelShortName": "Station",
         "Normal": [],
         "Overkill": [
-          "GenSec",
-          "Senturian"
+          "Senturian",
+          "FacialRecognition"
         ],
         "VeryHard": [
-          "GenSec"
+          "Senturian"
         ]
       },
       {
@@ -161,11 +161,11 @@
         "LevelShortName": "Villa",
         "Normal": [],
         "Overkill": [
-          "ReflectorShields",
-          "ArmorPiercing"
+          "DebilitatingSpecials",
+          "AlphaStrike"
         ],
         "VeryHard": [
-          "ReflectorShields"
+          "DebilitatingSpecials"
         ]
       },
       {
@@ -174,18 +174,34 @@
         "LevelShortName": "Datacenter",
         "Normal": [],
         "Overkill": [
+          "AmGuard",
+          "GenSec",
+          "DebilitatingSpecials",
+          "HardBargain"
+        ],
+        "VeryHard": [
+          "AmGuard",
+          "DebilitatingSpecials"
+        ]
+      },
+      {
+        "Description": "FORT security modifiers",
+        "Hard": [],
+        "LevelShortName": "Fort",
+        "Normal": [],
+        "Overkill": [
           "GenSec",
           "AmGuard",
-          "BuddySystem",
-          "AlphaStrike"
+          "ReflectorShields",
+          "BuddySystem"
         ],
         "VeryHard": [
           "GenSec",
-          "BuddySystem"
+          "ReflectorShields"
         ]
       }
     ]
   },
   "created_at": "2023-03-03T09:47:36.276Z",
-  "updated_at": "2024-05-29T09:02:03.439Z"
+  "updated_at": "2024-06-27T08:27:46.242Z"
 }
