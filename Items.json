@@ -15213,15 +15213,14 @@
       "itemType": "INGAMEITEM",
       "regionData": [
         {
-          "price": 1000000,
+          "price": 100000,
           "discountPercentage": 0,
           "discountAmount": 0,
-          "discountedPrice": 1000000,
+          "discountedPrice": 100000,
           "currencyCode": "CASH",
           "currencyType": "VIRTUAL",
           "currencyNamespace": "pd3",
-          "purchaseAt": "2024-05-15T11:08:24.982Z",
-          "discountPurchaseAt": "2024-05-15T11:08:24.982Z"
+          "purchaseAt": "2024-05-15T11:08:24.982Z"
         }
       ],
       "itemQty": {},
