@@ -5,7 +5,7 @@
   "value": {
     "FeatureToggleMapping": [
       {
-        "DailyChallenges": false,
+        "DailyChallenges": true,
         "MaskOfTheWeek": true,
         "Matchmaking_Quickplay": true,
         "UseAccelByteBackend": true
@@ -13,5 +13,5 @@
     ]
   },
   "created_at": "2024-04-30T08:45:14.623Z",
-  "updated_at": "2024-05-29T09:02:03.608Z"
+  "updated_at": "2024-08-19T08:58:30.566Z"
 }

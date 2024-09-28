@@ -1,6 +1,23 @@
 {
   "data": [
     {
+      "id": "72ab028c634849a0a97e9813a3fa7b91",
+      "namespace": "pd3",
+      "clazz": "ENTITLEMENT",
+      "type": "DURABLE",
+      "status": "ACTIVE",
+      "sku": "pd3_cosmetics_mask_event_02",
+      "userId": "redacteduserid",
+      "itemId": "933469145ce44d5d80ef3ca78b40a68f",
+      "itemNamespace": "pd3",
+      "name": "Event Mask 02",
+      "features": [],
+      "source": "PURCHASE",
+      "grantedAt": "2024-08-20T14:36:51.024Z",
+      "createdAt": "2024-08-20T14:36:51.024Z",
+      "updatedAt": "2024-08-20T14:36:51.024Z"
+    },
+    {
       "id": "9277eed07ca74efeb10ef9193ff9f692",
       "namespace": "pd3",
       "clazz": "ENTITLEMENT",

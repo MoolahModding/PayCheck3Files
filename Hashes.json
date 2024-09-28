@@ -1,15 +1,15 @@
 {
   "BasicInfamyTable.json": "4b1b4823572ad391bb66cf67485d60a6cdbbe89ee75ff88b0fad1c0e8a6a1591",
   "ChallengeRecommendations.json": "7abe000523af9c94673372891898a70256d0017553446890ff18ebb8f6e4e629",
-  "ChallengeRecords.json": "47ec0e28b6496aeeebabe13f528ccfb917fb289464cfb15679c7b86452c9c01c",
+  "ChallengeRecords.json": "d9a04e9dfb552bcd64743004c642d6e355a2935927424b2eb14d41d89e3e08dd",
   "ClientConfiguration.json": "f533abc58cd0e3dab84005f2c577d656bed073ab555843be8f0a1aab9eb9c13e",
-  "Entitlements.json": "20bebcec38d828f0bcd3d0494d8650bda21c7e46f78723cbb2e25e24e533bd2b",
-  "FeatureToggle.json": "5ab0ff9151842308da5e096f96d1742f4fd76aa446fc83744eb3541f0e40af2d",
-  "FirmRotation.json": "95c89bd4ad095230f1ba3c73ff92fe09bf63a51430909448e9e418421a7b3407",
-  "Items.json": "04eca43d40a697082dbf90ab74e3907b7163a68a2adedcd2273bd18b38f1854e",
-  "MetaEvents.json": "9e4ea4e32e977aa113cd666a1fa07692969c3bbdbd583c2b52008967e7f3ae7b",
+  "Entitlements.json": "ac5b03b15c510cd81e4836df01d00e105e60186210836c6a75fad259095e6254",
+  "FeatureToggle.json": "141436d2a2a55e1a07339143543d62a9425726efcb6696d42170fa29b03debde",
+  "FirmRotation.json": "f9d2210b16e7fc689cfe5c369c1386c1b176210616a4211a35c81afc7a90d8bf",
+  "Items.json": "f37123634686c45c75e43694b5d13e2c2c9f4e882a91f3b366be75ed3fed922e",
+  "MetaEvents.json": "fb0f37735c32b70e002afaf3e2a51170728981d1bfccd874420b7598ca1248f2",
   "NewsFeed.json": "2bc14a1fef9189ff4be836e88acf60d560659c4a4c98ec97125142d05e2efe3a",
-  "TimeBasedPlayerContent.json": "e06cdce7d7271834047973bec2b8df64303ddc44f03802234e17ab85e645d15b",
-  "UpdatedAtTimes.json": "3df76324c403957a68892c46df158428926a6b195b71ecb5afe51f21e124c808",
-  "WeaponTables.json": "1005e080723504c8c822ead8b6b5bb05635d84d4c0f4a366c2019ca414a0ed4a"
+  "TimeBasedPlayerContent.json": "5aeb9282824347339739d3b1d43e3db0a200a37aa4784f95157f6fc65e228387",
+  "UpdatedAtTimes.json": "87cd52f2135226e4506e80c4967173f271e4256d83a10f36207825b2e42f8190",
+  "WeaponTables.json": "9c6ec04186f6903fd4cfa04d7933d7b5d929fbd901927637701059be7813ffb6"
 }
