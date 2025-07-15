@@ -1,0 +1,241 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1,
+      1.2,
+      1.5,
+      1.7
+    ],
+    "InstantLootValues": {
+      "LoudMaxPayoutArray": [
+        13400,
+        16080,
+        20100,
+        22780
+      ],
+      "NameToPointMap": [
+        {
+          "BP_InstantLoot_Money_02": 1,
+          "BP_InstantLoot_Money_03": 3,
+          "BP_InstantLoot_Money_04": 2
+        }
+      ],
+      "StealthMaxPayoutArray": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "TotalPoints": 16
+    },
+    "ItemIdRewardMap": [
+      {
+        "additional-keycard-art-gallery-preplanning-asset": 0.03,
+        "additional-keycard-night-club-preplanning-asset": 0.03,
+        "additional-thermite-branch-bank-preplanning-asset": 0.03,
+        "bag-degradation-cargo-dock-preplanning-asset": 0.03,
+        "bitcoin-wallet-night-club-preplanning-asset": 0.03,
+        "celebration-sharke-bank-preplanning-asset": 0.03,
+        "chopper-jewelry-store-preplanning-asset": 0.03,
+        "cleaning-platform-penthouse-preplanning-asset": 0.03,
+        "elevator-sharke-bank-preplanning-asset": 0.03,
+        "employee-backdoor-jewelry-store-preplanning-asset": 0.03,
+        "escape-van-jewelry-store-preplanning-asset": 0.03,
+        "helicopter-art-gallery-preplanning-asset": 0.03,
+        "hidden-thermite-penthouse-preplanning-asset": 0.03,
+        "keycard-location-branch-bank-preplanning-asset": 0.03,
+        "main-entrance-art-gallery-preplanning-asset": 0.03,
+        "manager-cake-jewelry-store-preplanning-asset": 0.03,
+        "more-explosives-cargo-dock-preplanning-asset": 0.03,
+        "poison-penthouse-preplanning-asset": 0.03,
+        "potential-containers-cargo-dock-preplanning-asset": 0.03,
+        "secure-point-art-gallery-preplanning-asset": 0.03,
+        "secure-point-branch-bank-preplanning-asset": 0.03,
+        "secure-point-night-club-preplanning-asset": 0.03,
+        "secure-point-penthouse-preplanning-asset": 0.03,
+        "teller-door-sharke-bank-preplanning-asset": 0.03,
+        "thermal-lance-sharke-bank-preplanning-asset": 0.03,
+        "thermite-drop-cargo-dock-preplanning-asset": 0.03,
+        "van-branch-bank-preplanning-asset": 0.03,
+        "vault-code-night-club-preplanning-asset": 0.03
+      }
+    ],
+    "LoudBaseExperience": 300,
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-loud-veryhard"
+        ]
+      }
+    },
+    "LoudLootValuesArray": [
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 26500,
+            "MaxValueForLootType": 106000
+          },
+          {
+            "LootValue": 31800,
+            "MaxValueForLootType": 127200
+          },
+          {
+            "LootValue": 39750,
+            "MaxValueForLootType": 159000
+          },
+          {
+            "LootValue": 45050,
+            "MaxValueForLootType": 180200
+          }
+        ]
+      },
+      {
+        "LootName": "DA_RareMinerals",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 80000,
+            "MaxValueForLootType": 480000
+          },
+          {
+            "LootValue": 96000,
+            "MaxValueForLootType": 576000
+          },
+          {
+            "LootValue": 120000,
+            "MaxValueForLootType": 720000
+          },
+          {
+            "LootValue": 136000,
+            "MaxValueForLootType": 816000
+          }
+        ]
+      }
+    ],
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Completion": 0.1,
+        "Loud Milestone 1": 0.1,
+        "Loud Milestone 2": 0.05,
+        "Loud Milestone 3": 0.1,
+        "Loud Milestone 4": 0.35,
+        "Loud Milestone 5": 0.1,
+        "Loud Milestone 6": 0.05,
+        "Loud Milestone 7": 0.15
+      }
+    ],
+    "ObjectivesToExperienceRewardMap": [
+      {
+        "secure_all_loot": 1.2
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 450,
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "armoredtransport-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthLootValuesArray": [
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 26500,
+            "MaxValueForLootType": 106000
+          },
+          {
+            "LootValue": 31800,
+            "MaxValueForLootType": 127200
+          },
+          {
+            "LootValue": 39750,
+            "MaxValueForLootType": 159000
+          },
+          {
+            "LootValue": 45050,
+            "MaxValueForLootType": 180200
+          }
+        ]
+      },
+      {
+        "LootName": "DA_RareMinerals",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 80000,
+            "MaxValueForLootType": 480000
+          },
+          {
+            "LootValue": 96000,
+            "MaxValueForLootType": 576000
+          },
+          {
+            "LootValue": 120000,
+            "MaxValueForLootType": 720000
+          },
+          {
+            "LootValue": 136000,
+            "MaxValueForLootType": 816000
+          }
+        ]
+      }
+    ],
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Completion": 0,
+        "Stealth Milestone 1": 0,
+        "Stealth Milestone 10": 0,
+        "Stealth Milestone 2": 0,
+        "Stealth Milestone 3": 0,
+        "Stealth Milestone 4": 0,
+        "Stealth Milestone 5": 0,
+        "Stealth Milestone 6": 0,
+        "Stealth Milestone 7": 0,
+        "Stealth Milestone 8": 0,
+        "Stealth Milestone 9": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1,
+      1.2,
+      1.5,
+      1.7
+    ],
+    "InstantLootValues": {
+      "LoudMaxPayoutArray": [
+        2900,
+        3480,
+        4350,
+        4930
+      ],
+      "NameToPointMap": [
+        {
+          "BP_InstantLoot_Money_02": 2,
+          "BP_InstantLoot_Money_03": 4,
+          "BP_InstantLoot_Money_04": 1
+        }
+      ],
+      "StealthMaxPayoutArray": [
+        2900,
+        3480,
+        4350,
+        4930
+      ],
+      "TotalPoints": 37
+    },
+    "ItemIdRewardMap": [
+      {
+        "additional-keycard-night-club-preplanning-asset": 0.03,
+        "additional-thermite-branch-bank-preplanning-asset": 0.03,
+        "bag-degradation-cargo-dock-preplanning-asset": 0.03,
+        "bitcoin-wallet-night-club-preplanning-asset": 0.03,
+        "celebration-sharke-bank-preplanning-asset": 0.03,
+        "chopper-jewelry-store-preplanning-asset": 0.03,
+        "cleaning-platform-penthouse-preplanning-asset": 0.03,
+        "elevator-sharke-bank-preplanning-asset": 0.03,
+        "employee-backdoor-jewelry-store-preplanning-asset": 0.03,
+        "escape-van-jewelry-store-preplanning-asset": 0.03,
+        "garbage-chute-armored-transport-preplanning-asset": 0.03,
+        "hidden-thermite-penthouse-preplanning-asset": 0.03,
+        "keycard-location-branch-bank-preplanning-asset": 0.03,
+        "manager-cake-jewelry-store-preplanning-asset": 0.03,
+        "more-explosives-cargo-dock-preplanning-asset": 0.03,
+        "more-planks-armored-transport-preplanning-asset": 0.03,
+        "poison-penthouse-preplanning-asset": 0.03,
+        "potential-containers-cargo-dock-preplanning-asset": 0.03,
+        "rc-signal-armored-transport-preplanning-asset": 0.03,
+        "secure-point-branch-bank-preplanning-asset": 0.03,
+        "secure-point-night-club-preplanning-asset": 0.03,
+        "secure-point-penthouse-preplanning-asset": 0.03,
+        "sniper-tower-armored-transport-preplanning-asset": 0.03,
+        "teller-door-sharke-bank-preplanning-asset": 0.03,
+        "thermal-lance-sharke-bank-preplanning-asset": 0.03,
+        "thermite-drop-cargo-dock-preplanning-asset": 0.03,
+        "van-branch-bank-preplanning-asset": 0.03,
+        "vault-code-night-club-preplanning-asset": 0.03
+      }
+    ],
+    "LoudBaseExperience": 600,
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-loud-veryhard"
+        ]
+      }
+    },
+    "LoudLootValuesArray": [
+      {
+        "LootName": "DA_PaintingBagType_Greg",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 150000
+          },
+          {
+            "LootValue": 180000,
+            "MaxValueForLootType": 180000
+          },
+          {
+            "LootValue": 225000,
+            "MaxValueForLootType": 225000
+          },
+          {
+            "LootValue": 255000,
+            "MaxValueForLootType": 255000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Pedro",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 50000,
+            "MaxValueForLootType": 100000
+          },
+          {
+            "LootValue": 60000,
+            "MaxValueForLootType": 120000
+          },
+          {
+            "LootValue": 75000,
+            "MaxValueForLootType": 150000
+          },
+          {
+            "LootValue": 85000,
+            "MaxValueForLootType": 170000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Uma",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 150000
+          },
+          {
+            "LootValue": 180000,
+            "MaxValueForLootType": 180000
+          },
+          {
+            "LootValue": 225000,
+            "MaxValueForLootType": 225000
+          },
+          {
+            "LootValue": 255000,
+            "MaxValueForLootType": 255000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_FakeUma",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100000,
+            "MaxValueForLootType": 100000
+          },
+          {
+            "LootValue": 120000,
+            "MaxValueForLootType": 120000
+          },
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 150000
+          },
+          {
+            "LootValue": 170000,
+            "MaxValueForLootType": 170000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Special",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 10000,
+            "MaxValueForLootType": 10000
+          },
+          {
+            "LootValue": 12000,
+            "MaxValueForLootType": 12000
+          },
+          {
+            "LootValue": 15000,
+            "MaxValueForLootType": 15000
+          },
+          {
+            "LootValue": 17000,
+            "MaxValueForLootType": 17000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Generic",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 15500,
+            "MaxValueForLootType": 248000
+          },
+          {
+            "LootValue": 18600,
+            "MaxValueForLootType": 297600
+          },
+          {
+            "LootValue": 23250,
+            "MaxValueForLootType": 372000
+          },
+          {
+            "LootValue": 26350,
+            "MaxValueForLootType": 421600
+          }
+        ]
+      }
+    ],
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Completion": 0.4,
+        "Loud Milestone 1": 0.1,
+        "Loud Milestone 2": 0.2,
+        "Loud Milestone 3": 0.3
+      }
+    ],
+    "ObjectivesToExperienceRewardMap": [
+      {
+        "search_manifest": 1.4,
+        "steal_remainder": 1.2
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 750,
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "artgallery-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthLootValuesArray": [
+      {
+        "LootName": "DA_PaintingBagType_Greg",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200000,
+            "MaxValueForLootType": 200000
+          },
+          {
+            "LootValue": 240000,
+            "MaxValueForLootType": 240000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 340000,
+            "MaxValueForLootType": 340000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Pedro",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100000,
+            "MaxValueForLootType": 200000
+          },
+          {
+            "LootValue": 120000,
+            "MaxValueForLootType": 240000
+          },
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 170000,
+            "MaxValueForLootType": 340000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Uma",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200000,
+            "MaxValueForLootType": 200000
+          },
+          {
+            "LootValue": 240000,
+            "MaxValueForLootType": 240000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 340000,
+            "MaxValueForLootType": 340000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_FakeUma",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 150000
+          },
+          {
+            "LootValue": 180000,
+            "MaxValueForLootType": 180000
+          },
+          {
+            "LootValue": 225000,
+            "MaxValueForLootType": 225000
+          },
+          {
+            "LootValue": 255000,
+            "MaxValueForLootType": 255000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Special",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 10000,
+            "MaxValueForLootType": 10000
+          },
+          {
+            "LootValue": 12000,
+            "MaxValueForLootType": 12000
+          },
+          {
+            "LootValue": 15000,
+            "MaxValueForLootType": 15000
+          },
+          {
+            "LootValue": 17000,
+            "MaxValueForLootType": 17000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_PaintingBagType_Generic",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 15500,
+            "MaxValueForLootType": 248000
+          },
+          {
+            "LootValue": 18600,
+            "MaxValueForLootType": 297600
+          },
+          {
+            "LootValue": 23250,
+            "MaxValueForLootType": 372000
+          },
+          {
+            "LootValue": 26350,
+            "MaxValueForLootType": 421600
+          }
+        ]
+      }
+    ],
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Completion": 0.4,
+        "Stealth Milestone 1": 0.1,
+        "Stealth Milestone 2": 0.2,
+        "Stealth Milestone 3": 0.3
+      }
+    ]
+  }
+}

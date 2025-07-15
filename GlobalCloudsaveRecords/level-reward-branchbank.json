@@ -1,0 +1,423 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1,
+      1.2,
+      1.5,
+      1.7
+    ],
+    "InstantLootValues": {
+      "LoudMaxPayoutArray": [
+        10750,
+        12900,
+        16125,
+        18275
+      ],
+      "NameToPointMap": [
+        {
+          "BP_InstantLoot_BraceletBox": 2,
+          "BP_InstantLoot_Money_01": 1,
+          "BP_InstantLoot_Money_02": 3,
+          "BP_InstantLoot_Money_04": 4
+        }
+      ],
+      "StealthMaxPayoutArray": [
+        10750,
+        12900,
+        16125,
+        18275
+      ],
+      "TotalPoints": 190
+    },
+    "ItemIdRewardMap": [
+      {
+        "additional-thermite-branch-bank-preplanning-asset": 0.2,
+        "keycard-location-branch-bank-preplanning-asset": 0.2,
+        "secure-point-branch-bank-preplanning-asset": 0.2,
+        "van-branch-bank-preplanning-asset": 0.2
+      }
+    ],
+    "LoudBaseExperience": 400,
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-loud-veryhard"
+        ]
+      }
+    },
+    "LoudLootValuesArray": [
+      {
+        "LootName": "DA_MoneyBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 36000,
+            "MaxValueForLootType": 288000
+          },
+          {
+            "LootValue": 43200,
+            "MaxValueForLootType": 345600
+          },
+          {
+            "LootValue": 54000,
+            "MaxValueForLootType": 432000
+          },
+          {
+            "LootValue": 61200,
+            "MaxValueForLootType": 489600
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_Dyed",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 18000,
+            "MaxValueForLootType": 144000
+          },
+          {
+            "LootValue": 21600,
+            "MaxValueForLootType": 172800
+          },
+          {
+            "LootValue": 27000,
+            "MaxValueForLootType": 216000
+          },
+          {
+            "LootValue": 30600,
+            "MaxValueForLootType": 244800
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_01",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100,
+            "MaxValueForLootType": 2500
+          },
+          {
+            "LootValue": 120,
+            "MaxValueForLootType": 3000
+          },
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 3750
+          },
+          {
+            "LootValue": 170,
+            "MaxValueForLootType": 4250
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_04",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200,
+            "MaxValueForLootType": 7000
+          },
+          {
+            "LootValue": 240,
+            "MaxValueForLootType": 8400
+          },
+          {
+            "LootValue": 300,
+            "MaxValueForLootType": 10500
+          },
+          {
+            "LootValue": 340,
+            "MaxValueForLootType": 11900
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_02",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 750
+          },
+          {
+            "LootValue": 180,
+            "MaxValueForLootType": 900
+          },
+          {
+            "LootValue": 225,
+            "MaxValueForLootType": 1125
+          },
+          {
+            "LootValue": 255,
+            "MaxValueForLootType": 1275
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_BraceletBox",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100,
+            "MaxValueForLootType": 500
+          },
+          {
+            "LootValue": 120,
+            "MaxValueForLootType": 600
+          },
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 750
+          },
+          {
+            "LootValue": 170,
+            "MaxValueForLootType": 850
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 1000,
+            "MaxValueForLootType": 2000
+          },
+          {
+            "LootValue": 1200,
+            "MaxValueForLootType": 2400
+          },
+          {
+            "LootValue": 1500,
+            "MaxValueForLootType": 3000
+          },
+          {
+            "LootValue": 1700,
+            "MaxValueForLootType": 3400
+          }
+        ]
+      }
+    ],
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Completion": 0.3,
+        "Loud Milestone 1": 0.05,
+        "Loud Milestone 2": 0.1,
+        "Loud Milestone 3": 0.1,
+        "Loud Milestone 4": 0.15,
+        "Loud Milestone 5": 0.1,
+        "Loud Milestone 6": 0.2
+      }
+    ],
+    "ObjectivesToExperienceRewardMap": [
+      {
+        "Open_DepositID": 1.3,
+        "Search_DepositID": 1.2
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 550,
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "branchbank-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthLootValuesArray": [
+      {
+        "LootName": "DA_MoneyBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 33000,
+            "MaxValueForLootType": 264000
+          },
+          {
+            "LootValue": 39600,
+            "MaxValueForLootType": 316800
+          },
+          {
+            "LootValue": 49500,
+            "MaxValueForLootType": 396000
+          },
+          {
+            "LootValue": 56100,
+            "MaxValueForLootType": 448800
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_Dyed",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 16500,
+            "MaxValueForLootType": 132000
+          },
+          {
+            "LootValue": 19800,
+            "MaxValueForLootType": 158400
+          },
+          {
+            "LootValue": 24750,
+            "MaxValueForLootType": 198000
+          },
+          {
+            "LootValue": 28050,
+            "MaxValueForLootType": 224400
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_01",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100,
+            "MaxValueForLootType": 2500
+          },
+          {
+            "LootValue": 120,
+            "MaxValueForLootType": 3000
+          },
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 3750
+          },
+          {
+            "LootValue": 170,
+            "MaxValueForLootType": 4250
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_04",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200,
+            "MaxValueForLootType": 7000
+          },
+          {
+            "LootValue": 240,
+            "MaxValueForLootType": 8400
+          },
+          {
+            "LootValue": 300,
+            "MaxValueForLootType": 10500
+          },
+          {
+            "LootValue": 340,
+            "MaxValueForLootType": 11900
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_Money_02",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 750
+          },
+          {
+            "LootValue": 180,
+            "MaxValueForLootType": 900
+          },
+          {
+            "LootValue": 225,
+            "MaxValueForLootType": 1125
+          },
+          {
+            "LootValue": 255,
+            "MaxValueForLootType": 1275
+          }
+        ]
+      },
+      {
+        "LootName": "BP_InstantLoot_BraceletBox",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 100,
+            "MaxValueForLootType": 500
+          },
+          {
+            "LootValue": 120,
+            "MaxValueForLootType": 600
+          },
+          {
+            "LootValue": 150,
+            "MaxValueForLootType": 750
+          },
+          {
+            "LootValue": 170,
+            "MaxValueForLootType": 850
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 1000,
+            "MaxValueForLootType": 2000
+          },
+          {
+            "LootValue": 1200,
+            "MaxValueForLootType": 2400
+          },
+          {
+            "LootValue": 1500,
+            "MaxValueForLootType": 3000
+          },
+          {
+            "LootValue": 1700,
+            "MaxValueForLootType": 3400
+          }
+        ]
+      }
+    ],
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Completion": 0.05,
+        "Stealth Milestone 1": 0.1,
+        "Stealth Milestone 2": 0.1,
+        "Stealth Milestone 3": 0.2,
+        "Stealth Milestone 4": 0.25,
+        "Stealth Milestone 5": 0.3
+      }
+    ]
+  }
+}

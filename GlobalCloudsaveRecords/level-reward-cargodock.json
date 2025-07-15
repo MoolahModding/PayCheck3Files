@@ -1,0 +1,344 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1,
+      1.2,
+      1.5,
+      1.7
+    ],
+    "ItemIdRewardMap": [
+      {
+        "additional-keycard-art-gallery-preplanning-asset": 0.03,
+        "additional-keycard-night-club-preplanning-asset": 0.03,
+        "additional-thermite-branch-bank-preplanning-asset": 0.03,
+        "bitcoin-wallet-night-club-preplanning-asset": 0.03,
+        "celebration-sharke-bank-preplanning-asset": 0.03,
+        "chopper-jewelry-store-preplanning-asset": 0.03,
+        "cleaning-platform-penthouse-preplanning-asset": 0.03,
+        "elevator-sharke-bank-preplanning-asset": 0.03,
+        "employee-backdoor-jewelry-store-preplanning-asset": 0.03,
+        "escape-van-jewelry-store-preplanning-asset": 0.03,
+        "garbage-chute-armored-transport-preplanning-asset": 0.03,
+        "helicopter-art-gallery-preplanning-asset": 0.03,
+        "hidden-thermite-penthouse-preplanning-asset": 0.03,
+        "keycard-location-branch-bank-preplanning-asset": 0.03,
+        "main-entrance-art-gallery-preplanning-asset": 0.03,
+        "manager-cake-jewelry-store-preplanning-asset": 0.03,
+        "more-planks-armored-transport-preplanning-asset": 0.03,
+        "poison-penthouse-preplanning-asset": 0.03,
+        "rc-signal-armored-transport-preplanning-asset": 0.03,
+        "secure-point-art-gallery-preplanning-asset": 0.03,
+        "secure-point-branch-bank-preplanning-asset": 0.03,
+        "secure-point-night-club-preplanning-asset": 0.03,
+        "secure-point-penthouse-preplanning-asset": 0.03,
+        "sniper-tower-armored-transport-preplanning-asset": 0.03,
+        "teller-door-sharke-bank-preplanning-asset": 0.03,
+        "thermal-lance-sharke-bank-preplanning-asset": 0.03,
+        "van-branch-bank-preplanning-asset": 0.03,
+        "vault-code-night-club-preplanning-asset": 0.03
+      }
+    ],
+    "LoudBaseExperience": 500,
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-loud-veryhard"
+        ]
+      }
+    },
+    "LoudLootValuesArray": [
+      {
+        "LootName": "DA_DegradingTechBagPrePlanningType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 245000,
+            "MaxValueForLootType": 490000
+          },
+          {
+            "LootValue": 294000,
+            "MaxValueForLootType": 588000
+          },
+          {
+            "LootValue": 367500,
+            "MaxValueForLootType": 735000
+          },
+          {
+            "LootValue": 416500,
+            "MaxValueForLootType": 833000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 245000,
+            "MaxValueForLootType": 490000
+          },
+          {
+            "LootValue": 294000,
+            "MaxValueForLootType": 588000
+          },
+          {
+            "LootValue": 367500,
+            "MaxValueForLootType": 735000
+          },
+          {
+            "LootValue": 416500,
+            "MaxValueForLootType": 833000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType_MediumValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200000,
+            "MaxValueForLootType": 400000
+          },
+          {
+            "LootValue": 240000,
+            "MaxValueForLootType": 480000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 600000
+          },
+          {
+            "LootValue": 340000,
+            "MaxValueForLootType": 680000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 150000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 180000,
+            "MaxValueForLootType": 360000
+          },
+          {
+            "LootValue": 225000,
+            "MaxValueForLootType": 450000
+          },
+          {
+            "LootValue": 255000,
+            "MaxValueForLootType": 510000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 1500,
+            "MaxValueForLootType": 9000
+          },
+          {
+            "LootValue": 1800,
+            "MaxValueForLootType": 10800
+          },
+          {
+            "LootValue": 2250,
+            "MaxValueForLootType": 13500
+          },
+          {
+            "LootValue": 2550,
+            "MaxValueForLootType": 15300
+          }
+        ]
+      }
+    ],
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Completion": 0.3,
+        "Loud Milestone 1": 0.05,
+        "Loud Milestone 10": 0.05,
+        "Loud Milestone 11": 0.1,
+        "Loud Milestone 2": 0.05,
+        "Loud Milestone 3": 0.1,
+        "Loud Milestone 4": 0.05,
+        "Loud Milestone 5": 0.05,
+        "Loud Milestone 6": 0.1,
+        "Loud Milestone 7": 0.05,
+        "Loud Milestone 8": 0.05,
+        "Loud Milestone 9": 0.05
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 650,
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "cargodock-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthLootValuesArray": [
+      {
+        "LootName": "DA_DegradingTechBagPrePlanningType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 295000,
+            "MaxValueForLootType": 590000
+          },
+          {
+            "LootValue": 354000,
+            "MaxValueForLootType": 708000
+          },
+          {
+            "LootValue": 442500,
+            "MaxValueForLootType": 885000
+          },
+          {
+            "LootValue": 501500,
+            "MaxValueForLootType": 1003000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 295000,
+            "MaxValueForLootType": 590000
+          },
+          {
+            "LootValue": 354000,
+            "MaxValueForLootType": 708000
+          },
+          {
+            "LootValue": 442500,
+            "MaxValueForLootType": 885000
+          },
+          {
+            "LootValue": 501500,
+            "MaxValueForLootType": 1003000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType_MediumValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 250000,
+            "MaxValueForLootType": 500000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 600000
+          },
+          {
+            "LootValue": 375000,
+            "MaxValueForLootType": 750000
+          },
+          {
+            "LootValue": 425000,
+            "MaxValueForLootType": 850000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_DegradingTechBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200000,
+            "MaxValueForLootType": 400000
+          },
+          {
+            "LootValue": 240000,
+            "MaxValueForLootType": 480000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 600000
+          },
+          {
+            "LootValue": 340000,
+            "MaxValueForLootType": 680000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 1500,
+            "MaxValueForLootType": 9000
+          },
+          {
+            "LootValue": 1800,
+            "MaxValueForLootType": 10800
+          },
+          {
+            "LootValue": 2250,
+            "MaxValueForLootType": 13500
+          },
+          {
+            "LootValue": 2550,
+            "MaxValueForLootType": 15300
+          }
+        ]
+      }
+    ],
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Completion": 0.3,
+        "Stealth Milestone 1": 0.05,
+        "Stealth Milestone 10": 0.05,
+        "Stealth Milestone 2": 0.1,
+        "Stealth Milestone 3": 0.05,
+        "Stealth Milestone 4": 0.05,
+        "Stealth Milestone 5": 0.1,
+        "Stealth Milestone 6": 0.1,
+        "Stealth Milestone 7": 0.05,
+        "Stealth Milestone 8": 0.05,
+        "Stealth Milestone 9": 0.1
+      }
+    ]
+  }
+}

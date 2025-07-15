@@ -1,0 +1,100 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1.6,
+      2
+    ],
+    "ItemIdRewardMap": [
+      {
+        "chopper-jewelry-store-preplanning-asset": 0.2,
+        "employee-backdoor-jewelry-store-preplanning-asset": 0.2,
+        "escape-van-jewelry-store-preplanning-asset": 0.2,
+        "manager-cake-jewelry-store-preplanning-asset": 0.2
+      }
+    ],
+    "LoudBaseExperience": 10,
+    "LoudDifficultyCashRewardModifierArray": [
+      {
+        "BaseReward": 200000,
+        "MaxReward": 2000000
+      }
+    ],
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-loud-veryhard"
+        ]
+      }
+    },
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Milestone 1": 0.4
+      }
+    ],
+    "ObjectivesToExperienceRewardMap": [
+      {
+        "Objective 1": 1.2
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 20,
+    "StealthDifficultyCashRewardModifierArray": [
+      {
+        "BaseReward": 200000,
+        "MaxReward": 2000000
+      }
+    ],
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "jewelry-store-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Milestone 1": 0.3
+      }
+    ]
+  }
+}

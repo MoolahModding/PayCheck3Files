@@ -1,0 +1,294 @@
+{
+  "Level-Reward-Setup": {
+    "DifficultyExperienceModifierArray": [
+      1,
+      1.2,
+      1.5,
+      1.7
+    ],
+    "ItemIdRewardMap": [
+      {
+        "additional-keycard-art-gallery-preplanning-asset": 0.03,
+        "additional-thermite-branch-bank-preplanning-asset": 0.03,
+        "bag-degradation-cargo-dock-preplanning-asset": 0.03,
+        "celebration-sharke-bank-preplanning-asset": 0.03,
+        "chopper-jewelry-store-preplanning-asset": 0.03,
+        "cleaning-platform-penthouse-preplanning-asset": 0.03,
+        "elevator-sharke-bank-preplanning-asset": 0.03,
+        "employee-backdoor-jewelry-store-preplanning-asset": 0.03,
+        "escape-van-jewelry-store-preplanning-asset": 0.03,
+        "garbage-chute-armored-transport-preplanning-asset": 0.03,
+        "helicopter-art-gallery-preplanning-asset": 0.03,
+        "hidden-thermite-penthouse-preplanning-asset": 0.03,
+        "keycard-location-branch-bank-preplanning-asset": 0.03,
+        "main-entrance-art-gallery-preplanning-asset": 0.03,
+        "manager-cake-jewelry-store-preplanning-asset": 0.03,
+        "more-explosives-cargo-dock-preplanning-asset": 0.03,
+        "more-planks-armored-transport-preplanning-asset": 0.03,
+        "poison-penthouse-preplanning-asset": 0.03,
+        "potential-containers-cargo-dock-preplanning-asset": 0.03,
+        "rc-signal-armored-transport-preplanning-asset": 0.03,
+        "secure-point-art-gallery-preplanning-asset": 0.03,
+        "secure-point-branch-bank-preplanning-asset": 0.03,
+        "secure-point-penthouse-preplanning-asset": 0.03,
+        "sniper-tower-armored-transport-preplanning-asset": 0.03,
+        "teller-door-sharke-bank-preplanning-asset": 0.03,
+        "thermal-lance-sharke-bank-preplanning-asset": 0.03,
+        "thermite-drop-cargo-dock-preplanning-asset": 0.03,
+        "van-branch-bank-preplanning-asset": 0.03
+      }
+    ],
+    "LoudBaseExperience": 500,
+    "LoudLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-loud-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-loud-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-loud-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-loud-veryhard"
+        ]
+      }
+    },
+    "LoudLootValuesArray": [
+      {
+        "LootName": "DA_PaintingBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 40000,
+            "MaxValueForLootType": 200000
+          },
+          {
+            "LootValue": 48000,
+            "MaxValueForLootType": 240000
+          },
+          {
+            "LootValue": 60000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 68000,
+            "MaxValueForLootType": 340000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 20000,
+            "MaxValueForLootType": 160000
+          },
+          {
+            "LootValue": 24000,
+            "MaxValueForLootType": 192000
+          },
+          {
+            "LootValue": 30000,
+            "MaxValueForLootType": 270000
+          },
+          {
+            "LootValue": 34000,
+            "MaxValueForLootType": 306000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_CocaineBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 10000,
+            "MaxValueForLootType": 40000
+          },
+          {
+            "LootValue": 12000,
+            "MaxValueForLootType": 48000
+          },
+          {
+            "LootValue": 15000,
+            "MaxValueForLootType": 90000
+          },
+          {
+            "LootValue": 17000,
+            "MaxValueForLootType": 102000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_CryptoWallet",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 200000,
+            "MaxValueForLootType": 200000
+          },
+          {
+            "LootValue": 240000,
+            "MaxValueForLootType": 240000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 340000,
+            "MaxValueForLootType": 340000
+          }
+        ]
+      }
+    ],
+    "LoudMilestoneToExperienceRewardMap": [
+      {
+        "Loud Completion": 0.2,
+        "Loud Milestone 1": 0.1,
+        "Loud Milestone 2": 0.15,
+        "Loud Milestone 3": 0.15,
+        "Loud Milestone 4": 0.4
+      }
+    ],
+    "ObjectivesToExperienceRewardMap": [
+      {
+        "loot_vault": 1.2
+      }
+    ],
+    "PerformanceBonusMap": {
+      "BeenKilledCount": {
+        "PerformanceBonusEntryArray": [
+          {
+            "Max": 0,
+            "Min": 0,
+            "Modifier": 1.15
+          }
+        ]
+      }
+    },
+    "StealthBaseExperience": 650,
+    "StealthLevelCompletedStatistics": {
+      "Hard": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-stealth-hard"
+        ]
+      },
+      "Normal": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-stealth-normal"
+        ]
+      },
+      "Overkill": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-stealth-overkill"
+        ]
+      },
+      "VeryHard": {
+        "PlayerStatisticEntryArray": [
+          "nightclub-stealth-veryhard"
+        ]
+      }
+    },
+    "StealthLootValuesArray": [
+      {
+        "LootName": "DA_PaintingBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 15000,
+            "MaxValueForLootType": 75000
+          },
+          {
+            "LootValue": 18000,
+            "MaxValueForLootType": 90000
+          },
+          {
+            "LootValue": 22500,
+            "MaxValueForLootType": 112500
+          },
+          {
+            "LootValue": 25500,
+            "MaxValueForLootType": 127500
+          }
+        ]
+      },
+      {
+        "LootName": "DA_MoneyBagType_LowValue",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 7000,
+            "MaxValueForLootType": 56000
+          },
+          {
+            "LootValue": 8400,
+            "MaxValueForLootType": 67200
+          },
+          {
+            "LootValue": 10500,
+            "MaxValueForLootType": 94500
+          },
+          {
+            "LootValue": 11900,
+            "MaxValueForLootType": 107100
+          }
+        ]
+      },
+      {
+        "LootName": "DA_CocaineBagType",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 5000,
+            "MaxValueForLootType": 20000
+          },
+          {
+            "LootValue": 6000,
+            "MaxValueForLootType": 24000
+          },
+          {
+            "LootValue": 7500,
+            "MaxValueForLootType": 45000
+          },
+          {
+            "LootValue": 8500,
+            "MaxValueForLootType": 51000
+          }
+        ]
+      },
+      {
+        "LootName": "DA_CryptoWallet",
+        "LootValueDifficultyArray": [
+          {
+            "LootValue": 250000,
+            "MaxValueForLootType": 250000
+          },
+          {
+            "LootValue": 300000,
+            "MaxValueForLootType": 300000
+          },
+          {
+            "LootValue": 375000,
+            "MaxValueForLootType": 375000
+          },
+          {
+            "LootValue": 425000,
+            "MaxValueForLootType": 425000
+          }
+        ]
+      }
+    ],
+    "StealthMilestoneToExperienceRewardMap": [
+      {
+        "Stealth Completion": 0.15,
+        "Stealth Milestone 1": 0.1,
+        "Stealth Milestone 2": 0.3,
+        "Stealth Milestone 3": 0.15,
+        "Stealth Milestone 4": 0.3
+      }
+    ]
+  }
+}
