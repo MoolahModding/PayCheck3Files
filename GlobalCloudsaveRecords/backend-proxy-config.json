@@ -1,0 +1,10 @@
+{
+  "base_url": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/",
+  "retry_limit_count": 3,
+  "retry_response_codes": [
+    429,
+    503,
+    504
+  ],
+  "retry_timeout_seconds": 25
+}
