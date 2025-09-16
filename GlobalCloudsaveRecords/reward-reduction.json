@@ -1,0 +1,14 @@
+{
+  "reward-reduction": [
+    {
+      "Reduction Max Percentage": 70,
+      "Reduction Percentage": 5,
+      "Reduction Type": "Killing Civilian"
+    },
+    {
+      "Reduction Max Percentage": 0,
+      "Reduction Percentage": 5,
+      "Reduction Type": "Player In Custody"
+    }
+  ]
+}

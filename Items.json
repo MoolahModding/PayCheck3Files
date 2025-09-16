@@ -436,6 +436,46 @@
     "updatedAt": "2025-07-04T11:48:09.493Z"
   },
   {
+    "title": "1 shiya preplanning asset",
+    "itemId": "e7b485d0b3e74c1aaa256d1bda94be17",
+    "baseAppId": "",
+    "sku": "pd3_preplanning_shiya_1",
+    "namespace": "pd3",
+    "name": "1 shiya preplanning asset",
+    "entitlementType": "CONSUMABLE",
+    "useCount": 1,
+    "stackable": true,
+    "categoryPath": "/PreplanningAssets",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 15000,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 15000,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-03-17T09:46:08.762Z"
+      }
+    ],
+    "itemQty": {},
+    "tags": [
+      "CombatEquipmentVendor",
+      "ShiyaPreplanningCategory"
+    ],
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-03-17T09:46:15.333Z",
+    "updatedAt": "2025-09-10T07:52:00.913Z"
+  },
+  {
     "title": "2 BUST Preplanning Asset",
     "itemId": "9c20941d5d73418abb6dd3a41f2be061",
     "baseAppId": "",
@@ -784,6 +824,46 @@
     "language": "en-US",
     "createdAt": "2023-11-10T05:51:53.800Z",
     "updatedAt": "2025-07-04T11:48:09.526Z"
+  },
+  {
+    "title": "2 shiya preplanning asset",
+    "itemId": "22db3e56b7034cea9743d70f4eb87db2",
+    "baseAppId": "",
+    "sku": "pd3_preplanning_shiya_2",
+    "namespace": "pd3",
+    "name": "2 shiya preplanning asset",
+    "entitlementType": "CONSUMABLE",
+    "useCount": 1,
+    "stackable": true,
+    "categoryPath": "/PreplanningAssets",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 105000,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 105000,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-03-17T09:47:40.950Z"
+      }
+    ],
+    "itemQty": {},
+    "tags": [
+      "CombatEquipmentVendor",
+      "ShiyaPreplanningCategory"
+    ],
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-03-17T09:47:47.388Z",
+    "updatedAt": "2025-09-10T07:52:00.902Z"
   },
   {
     "title": "3 BUST Preplanning Asset",
@@ -1140,6 +1220,46 @@
     "updatedAt": "2025-07-04T11:48:09.535Z"
   },
   {
+    "title": "3 shiya preplanning asset",
+    "itemId": "839d4408edce4aadb4da918361da0368",
+    "baseAppId": "",
+    "sku": "pd3_preplanning_shiya_3",
+    "namespace": "pd3",
+    "name": "3 shiya preplanning asset",
+    "entitlementType": "CONSUMABLE",
+    "useCount": 1,
+    "stackable": true,
+    "categoryPath": "/PreplanningAssets",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 85000,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 85000,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-03-17T09:48:47.246Z"
+      }
+    ],
+    "itemQty": {},
+    "tags": [
+      "CombatEquipmentVendor",
+      "ShiyaPreplanningCategory"
+    ],
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-03-17T09:48:53.693Z",
+    "updatedAt": "2025-09-10T07:52:00.908Z"
+  },
+  {
     "title": "4 BUST Preplanning Asset",
     "itemId": "35b815dd0a7945bfa6020c6526f9da52",
     "baseAppId": "",
@@ -1488,6 +1608,46 @@
     "language": "en-US",
     "createdAt": "2023-11-10T05:51:54.115Z",
     "updatedAt": "2025-07-04T11:48:09.562Z"
+  },
+  {
+    "title": "4 shiya preplanning asset",
+    "itemId": "0ddfdac3ef7943428c2b938ed4072863",
+    "baseAppId": "",
+    "sku": "pd3_preplanning_shiya_4",
+    "namespace": "pd3",
+    "name": "4 shiya preplanning asset",
+    "entitlementType": "CONSUMABLE",
+    "useCount": 1,
+    "stackable": true,
+    "categoryPath": "/PreplanningAssets",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 62000,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 62000,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-03-17T09:50:19.075Z"
+      }
+    ],
+    "itemQty": {},
+    "tags": [
+      "CombatEquipmentVendor",
+      "ShiyaPreplanningCategory"
+    ],
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-03-17T09:50:25.522Z",
+    "updatedAt": "2025-09-10T07:52:00.962Z"
   },
   {
     "title": "5 ONE Preplanning Asset ",
@@ -6202,6 +6362,50 @@
     "language": "en-US",
     "createdAt": "2025-04-17T13:02:38.228Z",
     "updatedAt": "2025-05-26T08:03:59.612Z"
+  },
+  {
+    "title": "Epic DLCshiya Heist pack",
+    "itemId": "2e3c720f478a4d2fa47e9d53cbeabd2a",
+    "baseAppId": "",
+    "sku": "pd3_epic_dlcshiya_heist_pack",
+    "namespace": "pd3",
+    "name": "Epic DLCshiya Heist pack",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Bundle",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "BUNDLE",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-08-07T13:57:03.190Z",
+        "discountPurchaseAt": "2025-08-07T13:57:03.190Z"
+      }
+    ],
+    "itemIds": [
+      "3dcb77d01b584d5f8c1a17d263b1879c"
+    ],
+    "itemQty": {
+      "3dcb77d01b584d5f8c1a17d263b1879c": 1
+    },
+    "tags": [
+      "PlatformOnly",
+      "Epic"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-08-07T13:57:03.107Z",
+    "updatedAt": "2025-09-10T07:52:00.935Z"
   },
   {
     "title": "Epic Fool Mask Vendor Item",
@@ -15294,6 +15498,41 @@
   },
   {
     "title": "Heist Art Gallery",
+    "itemId": "489d79f9aab64f449f67748aa97259d0",
+    "baseAppId": "",
+    "sku": "pd3_heist_art_gallery",
+    "namespace": "pd3",
+    "name": "Heist Art Gallery",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Heist",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2023-10-31T14:31:38.567Z",
+        "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
+      }
+    ],
+    "itemQty": {},
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2023-10-31T14:31:37.968Z",
+    "updatedAt": "2024-09-27T11:47:24.857Z"
+  },
+  {
+    "title": "Heist Art Gallery",
     "itemId": "66e4918f797d4bd0b8e8eb43e8a15687",
     "baseAppId": "",
     "sku": "pd3_steam_heist_art_gallery",
@@ -15330,41 +15569,6 @@
     "language": "en-US",
     "createdAt": "2023-10-31T12:21:08.848Z",
     "updatedAt": "2024-09-27T11:47:39.807Z"
-  },
-  {
-    "title": "Heist Art Gallery",
-    "itemId": "489d79f9aab64f449f67748aa97259d0",
-    "baseAppId": "",
-    "sku": "pd3_heist_art_gallery",
-    "namespace": "pd3",
-    "name": "Heist Art Gallery",
-    "entitlementType": "DURABLE",
-    "categoryPath": "/Heist",
-    "status": "ACTIVE",
-    "listable": true,
-    "purchasable": true,
-    "itemType": "INGAMEITEM",
-    "regionData": [
-      {
-        "price": 0,
-        "discountPercentage": 0,
-        "discountAmount": 0,
-        "discountedPrice": 0,
-        "currencyCode": "CASH",
-        "currencyType": "VIRTUAL",
-        "currencyNamespace": "pd3",
-        "purchaseAt": "2023-10-31T14:31:38.567Z",
-        "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
-      }
-    ],
-    "itemQty": {},
-    "features": [],
-    "maxCountPerUser": 1,
-    "maxCount": -1,
-    "region": "SE",
-    "language": "en-US",
-    "createdAt": "2023-10-31T14:31:37.968Z",
-    "updatedAt": "2024-09-27T11:47:24.857Z"
   },
   {
     "title": "Heist Branch Bank",
@@ -16352,6 +16556,176 @@
     "language": "en-US",
     "createdAt": "2023-11-02T12:25:05.743Z",
     "updatedAt": "2024-09-27T11:47:39.316Z"
+  },
+  {
+    "title": "Heist SHIYA Epic",
+    "itemId": "3dcb77d01b584d5f8c1a17d263b1879c",
+    "baseAppId": "",
+    "sku": "pd3_epic_heist_shiya",
+    "namespace": "pd3",
+    "name": "Heist SHIYA Epic",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Heist",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 50,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 50,
+        "currencyCode": "USD",
+        "currencyType": "REAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-07-04T09:20:08.454Z",
+        "discountPurchaseAt": "2025-07-04T09:20:08.454Z"
+      }
+    ],
+    "itemQty": {},
+    "boundItemIds": [
+      "2e3c720f478a4d2fa47e9d53cbeabd2a"
+    ],
+    "tags": [
+      "PlatformOnly",
+      "ReportingTelemetry",
+      "Epic"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-07-04T09:20:08.763Z",
+    "updatedAt": "2025-09-10T07:52:00.924Z"
+  },
+  {
+    "title": "Heist SHIYA Playstation",
+    "itemId": "02d57e1ae593486aafe83dc7c9d2ff11",
+    "baseAppId": "",
+    "sku": "pd3_playstation_heist_shiya",
+    "namespace": "pd3",
+    "name": "Heist SHIYA Playstation",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Heist",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 50,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 50,
+        "currencyCode": "USD",
+        "currencyType": "REAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-07-04T09:10:33.899Z"
+      }
+    ],
+    "itemQty": {},
+    "boundItemIds": [
+      "913f072e362f47d68e8626dc2a0d7624"
+    ],
+    "tags": [
+      "PlatformOnly",
+      "Playstation",
+      "ReportsTelemetry"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-07-04T09:10:34.200Z",
+    "updatedAt": "2025-09-10T07:52:00.895Z"
+  },
+  {
+    "title": "Heist SHIYA Steam",
+    "itemId": "c1552591002e41868ae0398877c884e6",
+    "baseAppId": "",
+    "sku": "pd3_steam_heist_shiya",
+    "namespace": "pd3",
+    "name": "Heist SHIYA Steam",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Heist",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 50,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 50,
+        "currencyCode": "USD",
+        "currencyType": "REAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-07-04T09:18:10.736Z"
+      }
+    ],
+    "itemQty": {},
+    "boundItemIds": [
+      "3b7219f269154c3a83e7711554952548"
+    ],
+    "tags": [
+      "PlatformOnly",
+      "ReportTelemetry",
+      "Steam"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-07-04T09:18:11.033Z",
+    "updatedAt": "2025-09-10T13:57:44.756Z"
+  },
+  {
+    "title": "Heist SHIYA Xbox",
+    "itemId": "f16be2022e9548ba8369f9a6ebdb8f13",
+    "baseAppId": "",
+    "sku": "pd3_xbox_heist_shiya",
+    "namespace": "pd3",
+    "name": "Heist SHIYA Xbox",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Heist",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 50,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 50,
+        "currencyCode": "USD",
+        "currencyType": "REAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-07-04T09:16:18.271Z",
+        "discountPurchaseAt": "2025-07-04T09:16:18.271Z"
+      }
+    ],
+    "itemQty": {},
+    "boundItemIds": [
+      "36d75f08df1c4806864593eb28448d06"
+    ],
+    "tags": [
+      "PlatformOnly",
+      "ReportTelemetry",
+      "Xbox"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-07-04T09:16:18.568Z",
+    "updatedAt": "2025-09-10T07:52:00.944Z"
   },
   {
     "title": "Heist Smash and Grab  Fort",
@@ -31734,6 +32108,47 @@
     "updatedAt": "2024-09-27T11:47:30.351Z"
   },
   {
+    "title": "Mask STPatch 05 Roboquest 01",
+    "itemId": "ee613365c9744e22871c69e1b7dfc35e",
+    "baseAppId": "",
+    "sku": "pd3_cosmetic_mask_stpatch_05_roboquest_01",
+    "namespace": "pd3",
+    "name": "Mask STPatch 05 Roboquest 01",
+    "entitlementType": "CONSUMABLE",
+    "useCount": 1,
+    "stackable": false,
+    "categoryPath": "/MaskMould",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 10,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 10,
+        "currencyCode": "GOLD",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2024-10-17T14:20:54.989Z"
+      }
+    ],
+    "itemQty": {},
+    "tags": [
+      "CharacterVendor",
+      "Premium",
+      "EventMasksCategory"
+    ],
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2024-10-17T14:20:53.828Z",
+    "updatedAt": "2025-09-12T11:34:37.811Z"
+  },
+  {
     "title": "Mask STPatch 05 Teddy Moo 01",
     "itemId": "758872a4097542b0a6dc99b4206492a5",
     "baseAppId": "",
@@ -31811,13 +32226,15 @@
     "tags": [
       "Premium"
     ],
-    "features": [],
+    "features": [
+      "iap-sync-twitch"
+    ],
     "maxCountPerUser": 1,
     "maxCount": -1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-10-18T15:29:10.032Z",
-    "updatedAt": "2025-05-26T15:44:56.101Z"
+    "updatedAt": "2025-09-10T09:07:59.871Z"
   },
   {
     "title": "Medic Bag",
@@ -39365,6 +39782,50 @@
     "language": "en-US",
     "createdAt": "2024-05-15T08:50:19.664Z",
     "updatedAt": "2024-09-27T11:47:39.263Z"
+  },
+  {
+    "title": "Playstation DLCshiya Heist pack",
+    "itemId": "913f072e362f47d68e8626dc2a0d7624",
+    "baseAppId": "",
+    "sku": "pd3_playstation_dlcshiya_heist_pack",
+    "namespace": "pd3",
+    "name": "Playstation DLCshiya Heist pack",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Bundle",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "BUNDLE",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-08-07T14:02:59.392Z",
+        "discountPurchaseAt": "2025-08-07T14:02:59.392Z"
+      }
+    ],
+    "itemIds": [
+      "02d57e1ae593486aafe83dc7c9d2ff11"
+    ],
+    "itemQty": {
+      "02d57e1ae593486aafe83dc7c9d2ff11": 1
+    },
+    "tags": [
+      "PlatformOnly",
+      "Playstation"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-08-07T14:02:59.312Z",
+    "updatedAt": "2025-09-10T07:52:00.930Z"
   },
   {
     "title": "Playstation Fool Mask Vendor Item",
@@ -51961,6 +52422,50 @@
     "updatedAt": "2025-05-26T08:03:59.640Z"
   },
   {
+    "title": "Steam DLCshiya Heist pack",
+    "itemId": "3b7219f269154c3a83e7711554952548",
+    "baseAppId": "",
+    "sku": "pd3_steam_dlcshiya_heist_pack",
+    "namespace": "pd3",
+    "name": "Steam DLCshiya Heist pack",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Bundle",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "BUNDLE",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-08-07T13:55:40.986Z",
+        "discountPurchaseAt": "2025-08-07T13:55:40.986Z"
+      }
+    ],
+    "itemIds": [
+      "c1552591002e41868ae0398877c884e6"
+    ],
+    "itemQty": {
+      "c1552591002e41868ae0398877c884e6": 1
+    },
+    "tags": [
+      "PlatformOnly",
+      "Steam"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-08-07T13:55:40.902Z",
+    "updatedAt": "2025-09-10T07:52:00.939Z"
+  },
+  {
     "title": "Steam Fool Mask Vendor Item",
     "itemId": "60e7ac7201f94d179854c4f709c3cf06",
     "baseAppId": "",
@@ -51997,11 +52502,11 @@
     ],
     "features": [],
     "maxCountPerUser": 1,
-    "maxCount": 1,
+    "maxCount": -1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-11-01T09:23:57.449Z",
-    "updatedAt": "2025-05-26T15:44:58.111Z"
+    "updatedAt": "2025-09-10T07:52:00.864Z"
   },
   {
     "title": "Steam Fool Preset",
@@ -55253,6 +55758,49 @@
   },
   {
     "title": "Steam Tailor pack 01 gloves 03",
+    "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
+    "baseAppId": "",
+    "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
+    "namespace": "pd3",
+    "name": "Steam Tailor pack 01 gloves 03",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Gloves",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "INGAMEITEM",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2023-11-15T13:06:13.403Z",
+        "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
+      }
+    ],
+    "itemQty": {},
+    "boundItemIds": [
+      "9f7a29d54a5c4e20a8c8176c7b1ecf01"
+    ],
+    "tags": [
+      "PlatformOnly",
+      "Steam",
+      "Premium"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2023-11-15T13:05:59.240Z",
+    "updatedAt": "2024-12-10T08:39:51.494Z"
+  },
+  {
+    "title": "Steam Tailor pack 01 gloves 03",
     "itemId": "8e93faab93644527a7682a49ddb71196",
     "baseAppId": "",
     "sku": "pd3_steam_cosmetic_tailorpack_01_gloves_03",
@@ -55295,49 +55843,6 @@
     "language": "en-US",
     "createdAt": "2023-11-16T07:17:29.881Z",
     "updatedAt": "2024-09-27T11:47:44.831Z"
-  },
-  {
-    "title": "Steam Tailor pack 01 gloves 03",
-    "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
-    "baseAppId": "",
-    "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
-    "namespace": "pd3",
-    "name": "Steam Tailor pack 01 gloves 03",
-    "entitlementType": "DURABLE",
-    "categoryPath": "/Gloves",
-    "status": "ACTIVE",
-    "listable": true,
-    "purchasable": true,
-    "itemType": "INGAMEITEM",
-    "regionData": [
-      {
-        "price": 0,
-        "discountPercentage": 0,
-        "discountAmount": 0,
-        "discountedPrice": 0,
-        "currencyCode": "CASH",
-        "currencyType": "VIRTUAL",
-        "currencyNamespace": "pd3",
-        "purchaseAt": "2023-11-15T13:06:13.403Z",
-        "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
-      }
-    ],
-    "itemQty": {},
-    "boundItemIds": [
-      "9f7a29d54a5c4e20a8c8176c7b1ecf01"
-    ],
-    "tags": [
-      "PlatformOnly",
-      "Steam",
-      "Premium"
-    ],
-    "features": [],
-    "maxCountPerUser": 1,
-    "maxCount": -1,
-    "region": "SE",
-    "language": "en-US",
-    "createdAt": "2023-11-15T13:05:59.240Z",
-    "updatedAt": "2024-12-10T08:39:51.494Z"
   },
   {
     "title": "Steam Tailor pack 01 gloves 04",
@@ -60237,6 +60742,64 @@
     "updatedAt": "2024-10-30T08:47:48.564Z"
   },
   {
+    "title": "Twitch drops set 05",
+    "itemId": "912750c3a9f84bbabf76f2cd5bde014c",
+    "baseAppId": "",
+    "sku": "pd3_twitch_drops_bundle_05",
+    "namespace": "pd3",
+    "name": "Twitch drops set 05",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Bundle",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "BUNDLE",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2024-11-29T14:42:12.454Z",
+        "discountPurchaseAt": "2024-11-29T14:42:12.454Z"
+      }
+    ],
+    "itemIds": [
+      "a01616b8f3784e8d9a21a2e680e345d4",
+      "f83a7e92f67640c983db9a14df82f16e",
+      "2a392e877de94e2b8c73e783bdaf03f0",
+      "385bb49e4a04450b8a822b98a61c31ca",
+      "1d4e1d0b045a4b678db5822ea073744e",
+      "68ef489895a3423cbd847063b663c19c",
+      "bbdbdaa55379493dadb0edc248703071",
+      "dd62f33eb0b44ed38e7f01fff9f8bf17",
+      "aec9b329de494cf78f09ecc9efe7f95e",
+      "7c94dcd1223c4f6ca7c1bb2f5d89eee1"
+    ],
+    "itemQty": {
+      "68ef489895a3423cbd847063b663c19c": 1,
+      "a01616b8f3784e8d9a21a2e680e345d4": 1,
+      "385bb49e4a04450b8a822b98a61c31ca": 1,
+      "1d4e1d0b045a4b678db5822ea073744e": 1,
+      "aec9b329de494cf78f09ecc9efe7f95e": 1,
+      "2a392e877de94e2b8c73e783bdaf03f0": 1,
+      "dd62f33eb0b44ed38e7f01fff9f8bf17": 1,
+      "bbdbdaa55379493dadb0edc248703071": 1,
+      "7c94dcd1223c4f6ca7c1bb2f5d89eee1": 1,
+      "f83a7e92f67640c983db9a14df82f16e": 1
+    },
+    "features": [],
+    "maxCountPerUser": -1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2024-11-29T14:42:13.205Z",
+    "updatedAt": "2025-09-10T07:52:00.887Z"
+  },
+  {
     "title": "Twitch drops weapon charm Bacon 01",
     "itemId": "d6f974bf1618472eab17d90e4fe04fc7",
     "baseAppId": "",
@@ -60805,15 +61368,18 @@
       "2356480e5b2a4df2b4bac8d2b8b07143"
     ],
     "tags": [
-      "inexhaustible"
+      "inexhaustible",
+      "Premium"
     ],
-    "features": [],
+    "features": [
+      "iap-sync-twitch"
+    ],
     "maxCountPerUser": 1,
     "maxCount": 1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-10-18T15:30:51.829Z",
-    "updatedAt": "2025-05-26T15:44:56.752Z"
+    "updatedAt": "2025-09-10T09:07:59.881Z"
   },
   {
     "title": "Weapon Charm Villa 1",
@@ -62773,15 +63339,18 @@
       "2356480e5b2a4df2b4bac8d2b8b07143"
     ],
     "tags": [
-      "inexhaustible"
+      "inexhaustible",
+      "Premium"
     ],
-    "features": [],
+    "features": [
+      "iap-sync-twitch"
+    ],
     "maxCountPerUser": -1,
     "maxCount": -1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-10-18T15:31:45.309Z",
-    "updatedAt": "2025-05-26T15:44:56.436Z"
+    "updatedAt": "2025-09-10T09:07:59.912Z"
   },
   {
     "title": "Weapon Sticker STPatch 05 Twitch Drops 02",
@@ -62817,15 +63386,18 @@
       "2356480e5b2a4df2b4bac8d2b8b07143"
     ],
     "tags": [
-      "inexhaustible"
+      "inexhaustible",
+      "Premium"
     ],
-    "features": [],
+    "features": [
+      "iap-sync-twitch"
+    ],
     "maxCountPerUser": -1,
     "maxCount": -1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-10-18T15:32:52.125Z",
-    "updatedAt": "2025-05-26T15:44:56.420Z"
+    "updatedAt": "2025-09-10T09:07:59.905Z"
   },
   {
     "title": "Weapon Sticker STPatch 05 Twitch Drops 03",
@@ -62861,15 +63433,18 @@
       "2356480e5b2a4df2b4bac8d2b8b07143"
     ],
     "tags": [
-      "inexhaustible"
+      "inexhaustible",
+      "Premium"
     ],
-    "features": [],
+    "features": [
+      "iap-sync-twitch"
+    ],
     "maxCountPerUser": -1,
     "maxCount": -1,
     "region": "SE",
     "language": "en-US",
     "createdAt": "2024-10-18T15:34:02.891Z",
-    "updatedAt": "2025-05-26T15:44:56.387Z"
+    "updatedAt": "2025-09-10T09:07:59.895Z"
   },
   {
     "title": "Window Platform Penthouse Preplanning asset",
@@ -64112,6 +64687,50 @@
     "language": "en-US",
     "createdAt": "2024-07-25T12:11:26.852Z",
     "updatedAt": "2024-09-27T11:47:46.070Z"
+  },
+  {
+    "title": "XBox DLCshiya Heist pack",
+    "itemId": "36d75f08df1c4806864593eb28448d06",
+    "baseAppId": "",
+    "sku": "pd3_xbox_dlcshiya_heist_pack",
+    "namespace": "pd3",
+    "name": "XBox DLCshiya Heist pack",
+    "entitlementType": "DURABLE",
+    "categoryPath": "/Bundle",
+    "status": "ACTIVE",
+    "listable": true,
+    "purchasable": true,
+    "itemType": "BUNDLE",
+    "regionData": [
+      {
+        "price": 0,
+        "discountPercentage": 0,
+        "discountAmount": 0,
+        "discountedPrice": 0,
+        "currencyCode": "CASH",
+        "currencyType": "VIRTUAL",
+        "currencyNamespace": "pd3",
+        "purchaseAt": "2025-08-07T14:06:31.156Z",
+        "discountPurchaseAt": "2025-08-07T14:06:31.156Z"
+      }
+    ],
+    "itemIds": [
+      "f16be2022e9548ba8369f9a6ebdb8f13"
+    ],
+    "itemQty": {
+      "f16be2022e9548ba8369f9a6ebdb8f13": 1
+    },
+    "tags": [
+      "PlatformOnly",
+      "Xbox"
+    ],
+    "features": [],
+    "maxCountPerUser": 1,
+    "maxCount": -1,
+    "region": "SE",
+    "language": "en-US",
+    "createdAt": "2025-08-07T14:06:31.081Z",
+    "updatedAt": "2025-09-10T07:52:00.950Z"
   },
   {
     "title": "XBox Fool Mask Vendor Item",
